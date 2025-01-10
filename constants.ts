@@ -1,4 +1,4 @@
-import { ChefHat, Code, ImageIcon, MessageSquare, Music, Scale, VideoIcon } from "lucide-react";
+import { ChefHat, Scale } from "lucide-react";
 
 export const MAX_FREE_COUNTS = 5;
 

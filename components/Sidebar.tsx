@@ -4,6 +4,7 @@ import { cn } from "@/lib/utils";
 import { Montserrat } from "next/font/google";
 import Link from "next/link";
 import {
+  ArrowRight,
   ChefHat,
   Code,
   ImageIcon,
@@ -11,6 +12,8 @@ import {
   Scale,
 } from "lucide-react";
 import { usePathname } from "next/navigation";
+import Image from "next/image";
+import { Button } from "./ui/button";
 
 type SidebarProps = {};
 const monteserrat = Montserrat({ weight: "600", subsets: ["latin"] });
@@ -39,7 +42,6 @@ const routes = [
   //   color: "text-green-700",
   //   href: "/code",
   // },
-
 ];
 
 const Sidebar: React.FC<SidebarProps> = () => {
@@ -49,11 +51,8 @@ const Sidebar: React.FC<SidebarProps> = () => {
     <div className="space-y-4 py-4 h-full border-r flex flex-col overflow-y-auto bg-white shadow-sm ">
       <div className="p-6 pt-8">
         <Link href="/dashboard" className="">
-   
           <div className="flex justify-start items-center leading-[117.02%] cursor-pointer font-poppins">
-            <b className="text-[21px] sm:text-[25px] ">
-              get
-            </b>
+            <b className="text-[21px] sm:text-[25px] ">get</b>
             <span className="font-poppins text-[22px] sm:text-[25px] text-custom-primary">
               dish._
             </span>
@@ -90,6 +89,27 @@ const Sidebar: React.FC<SidebarProps> = () => {
             />
           </Link>
         ))}
+      </div>
+
+      <div className=" w-full absolute bottom-10 flex items-center justify-center">
+        <div className=" w-[82%] h-48 bg-custom-primary rounded-t-3xl rounded-b-xl flex justify-center">
+          <div className="absolute -top-28 ">
+            <Image src="/3.png" height={120} width={120} alt="sidebar-pic" />
+          </div>
+          <div className="h-full mt-3 text-white flex flex-col justify-center items-center space-y-3">
+            <p className="w-[80%] text-sm font-semibold">
+              Let AI predict the perfect dish for you.
+            </p>
+
+            <Link
+              href="/recipes"
+              className=" h-10 px-4 py-2 w-[80%] rounded-xl bg-white text-center text-custom-primary text-md flex items-center justify-center"
+            >
+              Generate
+              <ArrowRight className="w-4 h-4 ml-2 text-custom-primary" />
+            </Link>
+          </div>
+        </div>
       </div>
     </div>
   );

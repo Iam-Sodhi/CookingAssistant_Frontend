@@ -9,12 +9,12 @@ export default function Home() {
   const router = useRouter();
   return (
     <>
-      <div className="mb-8 space-y-4">
+      <div className="mb-8 sm:mt-4 space-y-4">
         <h2 className="text-2xl md:text-4xl font-bold text-center">
-          Explore the power of AI
+        Your Smart Cooking Assistant <span className="text-custom-primary">Awaits._</span>
         </h2>
         <p className="text-muted-foreground font-light text-sm md:text-lg text-center">
-          Chat with the Smartest AI - Experience the power of AI
+        Simplify meal planning, predict recipes, and perfect portions in no time!
         </p>
       </div>
 
