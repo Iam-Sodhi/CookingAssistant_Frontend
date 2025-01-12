@@ -91,7 +91,7 @@ const Sidebar: React.FC<SidebarProps> = () => {
         ))}
       </div>
 
-      <div className=" w-full absolute bottom-10 flex items-center justify-center">
+      <div className=" w-full absolute bottom-12 flex items-center justify-center">
         <div className=" w-[82%] h-48 bg-custom-primary rounded-t-3xl rounded-b-xl flex justify-center">
           <div className="absolute -top-28 ">
             <Image src="/3.png" height={120} width={120} alt="sidebar-pic" />
@@ -103,10 +103,11 @@ const Sidebar: React.FC<SidebarProps> = () => {
 
             <Link
               href="/recipes"
-              className=" h-10 px-4 py-2 w-[80%] rounded-xl bg-white text-center text-custom-primary text-md flex items-center justify-center"
+              className="h-10 px-4 py-2 w-[80%] rounded-xl bg-white text-center text-custom-primary text-md flex items-center justify-center transition-all duration-200
+               hover:bg-orange-50  hover:text-custom-primary group"
             >
               Generate
-              <ArrowRight className="w-4 h-4 ml-2 text-custom-primary" />
+              <ArrowRight className="w-4 h-4 ml-2 text-custom-primary group-hover:translate-x-1 transition-transform duration-200" />
             </Link>
           </div>
         </div>
