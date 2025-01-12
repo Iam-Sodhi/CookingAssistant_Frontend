@@ -1,4 +1,4 @@
-[
+export const data= [
 
     {
         "value": "aachi fish masala",
