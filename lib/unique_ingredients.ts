@@ -144,26 +144,8 @@ export const data= [
         "value": "almond milk (badam milk",
         "label": "almond milk (badam milk"
     },
-    {
-        "value": "almond milk (badam milk coconut milk (ly cted)",
-        "label": "almond milk (badam milk coconut milk (ly cted)"
-    },
-    {
-        "value": "almond milk (badam milk frothed",
-        "label": "almond milk (badam milk frothed"
-    },
-    {
-        "value": "almond milk (badam milk unsweetened",
-        "label": "almond milk (badam milk unsweetened"
-    },
-    {
-        "value": "almond milk (badam milk water",
-        "label": "almond milk (badam milk water"
-    },
-    {
-        "value": "almond milk water",
-        "label": "almond milk water"
-    },
+
+ 
     {
         "value": "almond oil (badam oil)",
         "label": "almond oil (badam oil)"
@@ -1180,26 +1162,12 @@ export const data= [
         "value": "basil leaves",
         "label": "basil leaves"
     },
-    {
-        "value": "basil leaves (torn )",
-        "label": "basil leaves (torn )"
-    },
+
     {
         "value": "basil leaves chiffonade",
         "label": "basil leaves chiffonade"
     },
-    {
-        "value": "basil leaves dried",
-        "label": "basil leaves dried"
-    },
-    {
-        "value": "basil leaves dried basil",
-        "label": "basil leaves dried basil"
-    },
-    {
-        "value": "basil leaves dry",
-        "label": "basil leaves dry"
-    },
+  
     {
         "value": "basil leaves ground paste",
         "label": "basil leaves ground paste"
@@ -1208,58 +1176,13 @@ export const data= [
         "value": "basil leaves kaffir lime leaves",
         "label": "basil leaves kaffir lime leaves"
     },
-    {
-        "value": "basil leaves leaves",
-        "label": "basil leaves leaves"
-    },
-    {
-        "value": "basil leaves loosely packed",
-        "label": "basil leaves loosely packed"
-    },
-    {
-        "value": "basil leaves oregano",
-        "label": "basil leaves oregano"
-    },
-    {
-        "value": "basil leaves prepared earlier",
-        "label": "basil leaves prepared earlier"
-    },
-    {
-        "value": "basil leaves rolled",
-        "label": "basil leaves rolled"
-    },
-    {
-        "value": "basil leaves sniped",
-        "label": "basil leaves sniped"
-    },
-    {
-        "value": "basil leaves take out the stem",
-        "label": "basil leaves take out the stem"
-    },
-    {
-        "value": "basil leaves the curry",
-        "label": "basil leaves the curry"
-    },
-    {
-        "value": "basil leaves y",
-        "label": "basil leaves y"
-    },
+
+
     {
         "value": "basil pesto",
         "label": "basil pesto"
     },
-    {
-        "value": "basil pesto (or basil pesto)",
-        "label": "basil pesto (or basil pesto)"
-    },
-    {
-        "value": "basil pesto (you can also basil pesto)",
-        "label": "basil pesto (you can also basil pesto)"
-    },
-    {
-        "value": "basil pesto basil pesto",
-        "label": "basil pesto basil pesto"
-    },
+  
     {
         "value": "basil powder oregano",
         "label": "basil powder oregano"
@@ -1272,74 +1195,15 @@ export const data= [
         "value": "basmati rice (gobindo bhog)",
         "label": "basmati rice (gobindo bhog)"
     },
-    {
-        "value": "basmati rice (leftovers are better)",
-        "label": "basmati rice (leftovers are better)"
-    },
-    {
-        "value": "basmati rice (or grain should work)",
-        "label": "basmati rice (or grain should work)"
-    },
-    {
-        "value": "basmati rice drain the water",
-        "label": "basmati rice drain the water"
-    },
-    {
-        "value": "basmati rice enough water",
-        "label": "basmati rice enough water"
-    },
+
+   
     {
         "value": "basmati rice fragrant rice",
         "label": "basmati rice fragrant rice"
     },
-    {
-        "value": "basmati rice gobindo bhog rice",
-        "label": "basmati rice gobindo bhog rice"
-    },
-    {
-        "value": "basmati rice govind bhog rice",
-        "label": "basmati rice govind bhog rice"
-    },
-    {
-        "value": "basmati rice grain (you can also normal rice noodles)",
-        "label": "basmati rice grain (you can also normal rice noodles)"
-    },
-    {
-        "value": "basmati rice grain rice",
-        "label": "basmati rice grain rice"
-    },
-    {
-        "value": "basmati rice ground (similar coarse semolina)",
-        "label": "basmati rice ground (similar coarse semolina)"
-    },
-    {
-        "value": "basmati rice hour",
-        "label": "basmati rice hour"
-    },
-    {
-        "value": "basmati rice least",
-        "label": "basmati rice least"
-    },
-    {
-        "value": "basmati rice min",
-        "label": "basmati rice min"
-    },
-    {
-        "value": "basmati rice mins",
-        "label": "basmati rice mins"
-    },
-    {
-        "value": "basmati rice soak",
-        "label": "basmati rice soak"
-    },
-    {
-        "value": "basmati rice spices infused water (spices include cinnamon",
-        "label": "basmati rice spices infused water (spices include cinnamon"
-    },
-    {
-        "value": "basmati rice white rice; we can substitute this brown rice",
-        "label": "basmati rice white rice; we can substitute this brown rice"
-    },
+  
+
+  
     {
         "value": "bathua leaves",
         "label": "bathua leaves"
@@ -1356,14 +1220,7 @@ export const data= [
         "value": "bay leaf (tej patta)",
         "label": "bay leaf (tej patta)"
     },
-    {
-        "value": "bay leaf (tej patta) dried",
-        "label": "bay leaf (tej patta) dried"
-    },
-    {
-        "value": "bay leaf (tej patta) two piece",
-        "label": "bay leaf (tej patta) two piece"
-    },
+   
     {
         "value": "bay leaf break",
         "label": "bay leaf break"
@@ -1376,18 +1233,7 @@ export const data= [
         "value": "bay leaves",
         "label": "bay leaves"
     },
-    {
-        "value": "bay leaves (tej patta)",
-        "label": "bay leaves (tej patta)"
-    },
-    {
-        "value": "bay leaves (tej patta) tejpatta spice leaves",
-        "label": "bay leaves (tej patta) tejpatta spice leaves"
-    },
-    {
-        "value": "bay leaves bay leaves",
-        "label": "bay leaves bay leaves"
-    },
+  
     {
         "value": "bc belle bhat powder",
         "label": "bc belle bhat powder"
@@ -1412,18 +1258,8 @@ export const data= [
         "value": "beetroot",
         "label": "beetroot"
     },
-    {
-        "value": "beetroot (around beets)",
-        "label": "beetroot (around beets)"
-    },
-    {
-        "value": "beetroot (raw par)",
-        "label": "beetroot (raw par)"
-    },
-    {
-        "value": "beetroot centimeter",
-        "label": "beetroot centimeter"
-    },
+   
+  
     {
         "value": "beetroot dices",
         "label": "beetroot dices"
@@ -1456,14 +1292,7 @@ export const data= [
         "value": "betel leaves",
         "label": "betel leaves"
     },
-    {
-        "value": "betel leaves (paan)",
-        "label": "betel leaves (paan)"
-    },
-    {
-        "value": "betel leaves (paan) vetrilai",
-        "label": "betel leaves (paan) vetrilai"
-    },
+  
     {
         "value": "betel nut (supari)",
         "label": "betel nut (supari)"
@@ -1496,34 +1325,7 @@ export const data= [
         "value": "bhindi (lady fingerokra)",
         "label": "bhindi (lady fingerokra)"
     },
-    {
-        "value": "bhindi (lady fingerokra) (remove head tail)",
-        "label": "bhindi (lady fingerokra) (remove head tail)"
-    },
-    {
-        "value": "bhindi (lady fingerokra) an",
-        "label": "bhindi (lady fingerokra) an"
-    },
-    {
-        "value": "bhindi (lady fingerokra) destemmed",
-        "label": "bhindi (lady fingerokra) destemmed"
-    },
-    {
-        "value": "bhindi (lady fingerokra) length",
-        "label": "bhindi (lady fingerokra) length"
-    },
-    {
-        "value": "bhindi (lady fingerokra) piece",
-        "label": "bhindi (lady fingerokra) piece"
-    },
-    {
-        "value": "bhindi (lady fingerokra) shape",
-        "label": "bhindi (lady fingerokra) shape"
-    },
-    {
-        "value": "bhindi (lady fingerokra) slice",
-        "label": "bhindi (lady fingerokra) slice"
-    },
+   
     {
         "value": "bhindiokravendaikkai",
         "label": "bhindiokravendaikkai"
@@ -1552,10 +1354,7 @@ export const data= [
         "value": "bitter gourd",
         "label": "bitter gourd"
     },
-    {
-        "value": "bitter gourd after removing seeds",
-        "label": "bitter gourd after removing seeds"
-    },
+  
     {
         "value": "bitter sweet chocolate",
         "label": "bitter sweet chocolate"
@@ -1568,10 +1367,7 @@ export const data= [
         "value": "black beans canned",
         "label": "black beans canned"
     },
-    {
-        "value": "black beans canned (reserve the liquid)",
-        "label": "black beans canned (reserve the liquid)"
-    },
+   
     {
         "value": "black beans sauce",
         "label": "black beans sauce"
@@ -1600,14 +1396,7 @@ export const data= [
         "value": "black eyed beans (lobia)",
         "label": "black eyed beans (lobia)"
     },
-    {
-        "value": "black eyed beans (lobia) least",
-        "label": "black eyed beans (lobia) least"
-    },
-    {
-        "value": "black eyed beans (lobia) two",
-        "label": "black eyed beans (lobia) two"
-    },
+   
     {
         "value": "black gram",
         "label": "black gram"
@@ -1632,10 +1421,7 @@ export const data= [
         "value": "black olives",
         "label": "black olives"
     },
-    {
-        "value": "black olives both green black",
-        "label": "black olives both green black"
-    },
+   
     {
         "value": "black pepper",
         "label": "black pepper"
@@ -1668,38 +1454,7 @@ export const data= [
         "value": "black pepper powder black pepper powder",
         "label": "black pepper powder black pepper powder"
     },
-    {
-        "value": "black pepper powder cracked",
-        "label": "black pepper powder cracked"
-    },
-    {
-        "value": "black pepper powder grind",
-        "label": "black pepper powder grind"
-    },
-    {
-        "value": "black pepper powder ground",
-        "label": "black pepper powder ground"
-    },
-    {
-        "value": "black pepper powder paprika",
-        "label": "black pepper powder paprika"
-    },
-    {
-        "value": "black pepper powder pound",
-        "label": "black pepper powder pound"
-    },
-    {
-        "value": "black pepper powder red chilli powder",
-        "label": "black pepper powder red chilli powder"
-    },
-    {
-        "value": "black pepper powder wise",
-        "label": "black pepper powder wise"
-    },
-    {
-        "value": "black pepper powderblack pepper powder",
-        "label": "black pepper powderblack pepper powder"
-    },
+  
     {
         "value": "black peppercorns",
         "label": "black peppercorns"
@@ -1708,30 +1463,7 @@ export const data= [
         "value": "black peppercorns (or paprika)",
         "label": "black peppercorns (or paprika)"
     },
-    {
-        "value": "black peppercorns cracked",
-        "label": "black peppercorns cracked"
-    },
-    {
-        "value": "black peppercorns ground",
-        "label": "black peppercorns ground"
-    },
-    {
-        "value": "black peppercorns mortar pestle",
-        "label": "black peppercorns mortar pestle"
-    },
-    {
-        "value": "black peppercorns pound",
-        "label": "black peppercorns pound"
-    },
-    {
-        "value": "black peppercorns thawed",
-        "label": "black peppercorns thawed"
-    },
-    {
-        "value": "black peppercorns y",
-        "label": "black peppercorns y"
-    },
+   
     {
         "value": "black peppers",
         "label": "black peppers"
@@ -1744,10 +1476,7 @@ export const data= [
         "value": "black rice",
         "label": "black rice"
     },
-    {
-        "value": "black rice seasd salt",
-        "label": "black rice seasd salt"
-    },
+ 
     {
         "value": "black salt",
         "label": "black salt"
@@ -1764,14 +1493,7 @@ export const data= [
         "value": "black sesame seeds",
         "label": "black sesame seeds"
     },
-    {
-        "value": "black sesame seeds sprinkling",
-        "label": "black sesame seeds sprinkling"
-    },
-    {
-        "value": "black sesame seeds white sesame seeds",
-        "label": "black sesame seeds white sesame seeds"
-    },
+   
     {
         "value": "black soy beans",
         "label": "black soy beans"
@@ -1788,21 +1510,10 @@ export const data= [
         "value": "black urad dal",
         "label": "black urad dal"
     },
-    {
-        "value": "black urad dal (split)",
-        "label": "black urad dal (split)"
-    },
-    {
-        "value": "black urad dal ground make atta",
-        "label": "black urad dal ground make atta"
-    },
+  
     {
         "value": "blackberries berries",
         "label": "blackberries berries"
-    },
-    {
-        "value": "blackberries other berries",
-        "label": "blackberries other berries"
     },
     {
         "value": "blueberries",
@@ -1812,18 +1523,7 @@ export const data= [
         "value": "blueberries dry",
         "label": "blueberries dry"
     },
-    {
-        "value": "blueberries locy available berries",
-        "label": "blueberries locy available berries"
-    },
-    {
-        "value": "blueberries locy available berry",
-        "label": "blueberries locy available berry"
-    },
-    {
-        "value": "blueberries other berry season",
-        "label": "blueberries other berry season"
-    },
+   
     {
         "value": "blueberry jam",
         "label": "blueberry jam"
@@ -1852,10 +1552,7 @@ export const data= [
         "value": "boneless chicken",
         "label": "boneless chicken"
     },
-    {
-        "value": "boneless chicken (",
-        "label": "boneless chicken ("
-    },
+ 
     {
         "value": "boneless chicken (es)",
         "label": "boneless chicken (es)"
@@ -1892,10 +1589,7 @@ export const data= [
         "value": "boondi masala",
         "label": "boondi masala"
     },
-    {
-        "value": "boondi masala boondi",
-        "label": "boondi masala boondi"
-    },
+   
     {
         "value": "boondi sev",
         "label": "boondi sev"
@@ -1912,26 +1606,7 @@ export const data= [
         "value": "bottle gourd (lauki)",
         "label": "bottle gourd (lauki)"
     },
-    {
-        "value": "bottle gourd (lauki) ( bottle gourd)",
-        "label": "bottle gourd (lauki) ( bottle gourd)"
-    },
-    {
-        "value": "bottle gourd (lauki) a skin",
-        "label": "bottle gourd (lauki) a skin"
-    },
-    {
-        "value": "bottle gourd (lauki) cubes",
-        "label": "bottle gourd (lauki) cubes"
-    },
-    {
-        "value": "bottle gourd (lauki) cucumber",
-        "label": "bottle gourd (lauki) cucumber"
-    },
-    {
-        "value": "bottle gourd (lauki) the skin",
-        "label": "bottle gourd (lauki) the skin"
-    },
+  
     {
         "value": "bourbon",
         "label": "bourbon"
@@ -1940,10 +1615,7 @@ export const data= [
         "value": "bourbon biscuits (or hide seek biscuits)",
         "label": "bourbon biscuits (or hide seek biscuits)"
     },
-    {
-        "value": "bourbon biscuits other biscuits",
-        "label": "bourbon biscuits other biscuits"
-    },
+   
     {
         "value": "brahmi leaves",
         "label": "brahmi leaves"
@@ -1988,86 +1660,7 @@ export const data= [
         "value": "brinjal (baingan eggsplant)",
         "label": "brinjal (baingan eggsplant)"
     },
-    {
-        "value": "brinjal (baingan eggsplant) ( variety)",
-        "label": "brinjal (baingan eggsplant) ( variety)"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) (crown each)",
-        "label": "brinjal (baingan eggsplant) (crown each)"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) (cut slices)",
-        "label": "brinjal (baingan eggsplant) (cut slices)"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) (into )",
-        "label": "brinjal (baingan eggsplant) (into )"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) (use smer brinjals elevated )",
-        "label": "brinjal (baingan eggsplant) (use smer brinjals elevated )"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) cm cubes",
-        "label": "brinjal (baingan eggsplant) cm cubes"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) destemmed",
-        "label": "brinjal (baingan eggsplant) destemmed"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) diagonal",
-        "label": "brinjal (baingan eggsplant) diagonal"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) dices",
-        "label": "brinjal (baingan eggsplant) dices"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) from top stuffing",
-        "label": "brinjal (baingan eggsplant) from top stuffing"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) green seedless variety",
-        "label": "brinjal (baingan eggsplant) green seedless variety"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) make",
-        "label": "brinjal (baingan eggsplant) make"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) mm (lengthwise)",
-        "label": "brinjal (baingan eggsplant) mm (lengthwise)"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) ness",
-        "label": "brinjal (baingan eggsplant) ness"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) purple",
-        "label": "brinjal (baingan eggsplant) purple"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) quatered",
-        "label": "brinjal (baingan eggsplant) quatered"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) salt water",
-        "label": "brinjal (baingan eggsplant) salt water"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) stalks",
-        "label": "brinjal (baingan eggsplant) stalks"
-    },
-    {
-        "value": "brinjal (baingan eggsplant) three",
-        "label": "brinjal (baingan eggsplant) three"
-    },
-    {
-        "value": "brinjal (baingan eggsplant)(use the regular eggsplant not the used baingan bhartha)",
-        "label": "brinjal (baingan eggsplant)(use the regular eggsplant not the used baingan bhartha)"
-    },
+   
     {
         "value": "brinjals",
         "label": "brinjals"
@@ -2120,18 +1713,7 @@ export const data= [
         "value": "broccoli",
         "label": "broccoli"
     },
-    {
-        "value": "broccoli ( gram)",
-        "label": "broccoli ( gram)"
-    },
-    {
-        "value": "broccoli (florets)",
-        "label": "broccoli (florets)"
-    },
-    {
-        "value": "broccoli (or broccoli)",
-        "label": "broccoli (or broccoli)"
-    },
+   
     {
         "value": "broccoli bite florets",
         "label": "broccoli bite florets"
@@ -2144,22 +1726,7 @@ export const data= [
         "value": "broccoli florets",
         "label": "broccoli florets"
     },
-    {
-        "value": "broccoli florets approximately",
-        "label": "broccoli florets approximately"
-    },
-    {
-        "value": "broccoli florets blitzed",
-        "label": "broccoli florets blitzed"
-    },
-    {
-        "value": "broccoli flowerets",
-        "label": "broccoli flowerets"
-    },
-    {
-        "value": "broccoli smer",
-        "label": "broccoli smer"
-    },
+   
     {
         "value": "broccoli smer florets",
         "label": "broccoli smer florets"
@@ -2188,14 +1755,7 @@ export const data= [
         "value": "brown rice (or rice)",
         "label": "brown rice (or rice)"
     },
-    {
-        "value": "brown rice beforehand",
-        "label": "brown rice beforehand"
-    },
-    {
-        "value": "brown rice flakes",
-        "label": "brown rice flakes"
-    },
+
     {
         "value": "brown rice poha ( rice)",
         "label": "brown rice poha ( rice)"
@@ -2208,50 +1768,7 @@ export const data= [
         "value": "brown sugar (demerara sugar)",
         "label": "brown sugar (demerara sugar)"
     },
-    {
-        "value": "brown sugar (demerara sugar) ( sprinkling)",
-        "label": "brown sugar (demerara sugar) ( sprinkling)"
-    },
-    {
-        "value": "brown sugar (demerara sugar) (alternatively icing sugar)",
-        "label": "brown sugar (demerara sugar) (alternatively icing sugar)"
-    },
-    {
-        "value": "brown sugar (demerara sugar) (jaggery)",
-        "label": "brown sugar (demerara sugar) (jaggery)"
-    },
-    {
-        "value": "brown sugar (demerara sugar) (light brown sugar",
-        "label": "brown sugar (demerara sugar) (light brown sugar"
-    },
-    {
-        "value": "brown sugar (demerara sugar) (reduce you prefer less sweetened beans)",
-        "label": "brown sugar (demerara sugar) (reduce you prefer less sweetened beans)"
-    },
-    {
-        "value": "brown sugar (demerara sugar) (reduce you wish)",
-        "label": "brown sugar (demerara sugar) (reduce you wish)"
-    },
-    {
-        "value": "brown sugar (demerara sugar) brown sugar",
-        "label": "brown sugar (demerara sugar) brown sugar"
-    },
-    {
-        "value": "brown sugar (demerara sugar) light brown",
-        "label": "brown sugar (demerara sugar) light brown"
-    },
-    {
-        "value": "brown sugar (demerara sugar) palm sugar",
-        "label": "brown sugar (demerara sugar) palm sugar"
-    },
-    {
-        "value": "brown sugar (demerara sugar) sprinkling",
-        "label": "brown sugar (demerara sugar) sprinkling"
-    },
-    {
-        "value": "brown sugar (demerara sugar) sugar",
-        "label": "brown sugar (demerara sugar) sugar"
-    },
+   
     {
         "value": "brussel sprouts",
         "label": "brussel sprouts"
@@ -2260,18 +1777,8 @@ export const data= [
         "value": "buckwheat flour (kuttu ka atta)",
         "label": "buckwheat flour (kuttu ka atta)"
     },
-    {
-        "value": "buckwheat flour (kuttu ka atta) kuttu ka atta",
-        "label": "buckwheat flour (kuttu ka atta) kuttu ka atta"
-    },
-    {
-        "value": "buckwheat flour (kuttu ka atta) kuttu ka dalia",
-        "label": "buckwheat flour (kuttu ka atta) kuttu ka dalia"
-    },
-    {
-        "value": "buckwheat flour (kuttu ka atta) ragi flour",
-        "label": "buckwheat flour (kuttu ka atta) ragi flour"
-    },
+
+   
     {
         "value": "bud",
         "label": "bud"
@@ -2280,18 +1787,7 @@ export const data= [
         "value": "bud garlic",
         "label": "bud garlic"
     },
-    {
-        "value": "bud garlic paste",
-        "label": "bud garlic paste"
-    },
-    {
-        "value": "buds garlic",
-        "label": "buds garlic"
-    },
-    {
-        "value": "buds garlic finely",
-        "label": "buds garlic finely"
-    },
+   
     {
         "value": "bulgur wheat",
         "label": "bulgur wheat"
@@ -2308,50 +1804,17 @@ export const data= [
         "value": "burger buns",
         "label": "burger buns"
     },
-    {
-        "value": "burger buns (top only the base kept)",
-        "label": "burger buns (top only the base kept)"
-    },
-    {
-        "value": "burger buns masala buns",
-        "label": "burger buns masala buns"
-    },
-    {
-        "value": "burger buns mini",
-        "label": "burger buns mini"
-    },
-    {
-        "value": "burger buns sliders",
-        "label": "burger buns sliders"
-    },
+
     {
         "value": "burger buns wheat",
         "label": "burger buns wheat"
     },
-    {
-        "value": "but normal can be used)",
-        "label": "but normal can be used)"
-    },
+
     {
         "value": "butter",
         "label": "butter"
     },
-    {
-        "value": "butter ( brush prep)",
-        "label": "butter ( brush prep)"
-    },
-    {
-        "value": "butter ( canola vegetable oil)",
-        "label": "butter ( canola vegetable oil)"
-    },
-    {
-        "value": "butter (at )",
-        "label": "butter (at )"
-    },
-    {
-        "value": "butter (for greasing)",
-        "label": "butter (for greasing)"
-    },
+   
     {
         "value": "butter (or sunflower oil)",
         "label": "butter (or sunflower oil)"
@@ -2360,30 +1823,13 @@ export const data= [
         "value": "butter (salted)",
         "label": "butter (salted)"
     },
-    {
-        "value": "butter apply on bread",
-        "label": "butter apply on bread"
-    },
-    {
-        "value": "butter apply on pinwheels",
-        "label": "butter apply on pinwheels"
-    },
-    {
-        "value": "butter baking",
-        "label": "butter baking"
-    },
+    
+
     {
         "value": "butter baste",
         "label": "butter baste"
     },
-    {
-        "value": "butter brushing",
-        "label": "butter brushing"
-    },
-    {
-        "value": "butter clarified",
-        "label": "butter clarified"
-    },
+
     {
         "value": "butter coconut butter",
         "label": "butter coconut butter"
@@ -2392,130 +1838,19 @@ export const data= [
         "value": "butter coconut oil",
         "label": "butter coconut oil"
     },
-    {
-        "value": "butter cold",
-        "label": "butter cold"
-    },
-    {
-        "value": "butter cold divided",
-        "label": "butter cold divided"
-    },
-    {
-        "value": "butter cold pea",
-        "label": "butter cold pea"
-    },
-    {
-        "value": "butter cold unsalted",
-        "label": "butter cold unsalted"
-    },
-    {
-        "value": "butter cooled",
-        "label": "butter cooled"
-    },
-    {
-        "value": "butter cubes",
-        "label": "butter cubes"
-    },
-    {
-        "value": "butter divided",
-        "label": "butter divided"
-    },
+   
+    
     {
         "value": "butter ghee",
         "label": "butter ghee"
     },
-    {
-        "value": "butter ghee brushing",
-        "label": "butter ghee brushing"
-    },
-    {
-        "value": "butter gheeoil",
-        "label": "butter gheeoil"
-    },
-    {
-        "value": "butter grease",
-        "label": "butter grease"
-    },
-    {
-        "value": "butter grease the pan",
-        "label": "butter grease the pan"
-    },
-    {
-        "value": "butter grease the tintray",
-        "label": "butter grease the tintray"
-    },
-    {
-        "value": "butter grease waffle iron",
-        "label": "butter grease waffle iron"
-    },
-    {
-        "value": "butter greasing",
-        "label": "butter greasing"
-    },
-    {
-        "value": "butter greasing naan",
-        "label": "butter greasing naan"
-    },
-    {
-        "value": "butter greasing the baking dish",
-        "label": "butter greasing the baking dish"
-    },
-    {
-        "value": "butter greasing the pan",
-        "label": "butter greasing the pan"
-    },
-    {
-        "value": "butter grilling",
-        "label": "butter grilling"
-    },
-    {
-        "value": "butter have used salted butter",
-        "label": "butter have used salted butter"
-    },
-    {
-        "value": "butter loni (white butter)",
-        "label": "butter loni (white butter)"
-    },
-    {
-        "value": "butter make pancakes",
-        "label": "butter make pancakes"
-    },
-    {
-        "value": "butter oil",
-        "label": "butter oil"
-    },
-    {
-        "value": "butter oil grease",
-        "label": "butter oil grease"
-    },
-    {
-        "value": "butter oil mixed",
-        "label": "butter oil mixed"
-    },
-    {
-        "value": "butter oil pancakes",
-        "label": "butter oil pancakes"
-    },
-    {
-        "value": "butter oil the filling",
-        "label": "butter oil the filling"
-    },
+   
+   
     {
         "value": "butter olive oil",
         "label": "butter olive oil"
     },
-    {
-        "value": "butter olive oil brushing the rotis",
-        "label": "butter olive oil brushing the rotis"
-    },
-    {
-        "value": "butter olive oil grease",
-        "label": "butter olive oil grease"
-    },
-    {
-        "value": "butter on the naans",
-        "label": "butter on the naans"
-    },
+   
     {
         "value": "butter pan",
         "label": "butter pan"
@@ -2524,130 +1859,22 @@ export const data= [
         "value": "butter pea",
         "label": "butter pea"
     },
-    {
-        "value": "butter per sandwich",
-        "label": "butter per sandwich"
-    },
-    {
-        "value": "butter plus",
-        "label": "butter plus"
-    },
-    {
-        "value": "butter plus pan (or coconut oil canola oil vegan)",
-        "label": "butter plus pan (or coconut oil canola oil vegan)"
-    },
-    {
-        "value": "butter ricotta cheese",
-        "label": "butter ricotta cheese"
-    },
+   
     {
         "value": "butter roasting the pizza base",
         "label": "butter roasting the pizza base"
     },
-    {
-        "value": "butter room temprature",
-        "label": "butter room temprature"
-    },
-    {
-        "value": "butter salted",
-        "label": "butter salted"
-    },
-    {
-        "value": "butter salted unsalted",
-        "label": "butter salted unsalted"
-    },
-    {
-        "value": "butter sandwich",
-        "label": "butter sandwich"
-    },
-    {
-        "value": "butter sizzling",
-        "label": "butter sizzling"
-    },
-    {
-        "value": "butter some finishing",
-        "label": "butter some finishing"
-    },
-    {
-        "value": "butter stick",
-        "label": "butter stick"
-    },
-    {
-        "value": "butter temperature be kept cold",
-        "label": "butter temperature be kept cold"
-    },
-    {
-        "value": "butter the kulchas",
-        "label": "butter the kulchas"
-    },
-    {
-        "value": "butter the toast",
-        "label": "butter the toast"
-    },
-    {
-        "value": "butter toasting",
-        "label": "butter toasting"
-    },
-    {
-        "value": "butter toasting pita",
-        "label": "butter toasting pita"
-    },
-    {
-        "value": "butter toasting the bread",
-        "label": "butter toasting the bread"
-    },
-    {
-        "value": "butter toasting the buns",
-        "label": "butter toasting the buns"
-    },
-    {
-        "value": "butter toasting the burger buns",
-        "label": "butter toasting the burger buns"
-    },
-    {
-        "value": "butter unsalted",
-        "label": "butter unsalted"
-    },
-    {
-        "value": "butter vegan version coconut oil",
-        "label": "butter vegan version coconut oil"
-    },
-    {
-        "value": "butter vegetable oil",
-        "label": "butter vegetable oil"
-    },
-    {
-        "value": "butterapproximately",
-        "label": "butterapproximately"
-    },
-    {
-        "value": "butterbutter",
-        "label": "butterbutter"
-    },
+  
     {
         "value": "buttermilk",
         "label": "buttermilk"
     },
-    {
-        "value": "buttermilk (or milk+ vinegar)",
-        "label": "buttermilk (or milk+ vinegar)"
-    },
-    {
-        "value": "buttermilk amsul (dried kokum skin)",
-        "label": "buttermilk amsul (dried kokum skin)"
-    },
-    {
-        "value": "buttermilk cold",
-        "label": "buttermilk cold"
-    },
+  
     {
         "value": "buttermilk sour",
         "label": "buttermilk sour"
     },
-    {
-        "value": "buttermilk strained remove lumps",
-        "label": "buttermilk strained remove lumps"
-    },
+    
     {
         "value": "butternut squash seeded",
         "label": "butternut squash seeded"
@@ -2676,34 +1903,8 @@ export const data= [
         "value": "button mushrooms",
         "label": "button mushrooms"
     },
-    {
-        "value": "button mushrooms (any variety)",
-        "label": "button mushrooms (any variety)"
-    },
-    {
-        "value": "button mushrooms (button crimini variety)",
-        "label": "button mushrooms (button crimini variety)"
-    },
-    {
-        "value": "button mushrooms (canned storebought mushrooms)",
-        "label": "button mushrooms (canned storebought mushrooms)"
-    },
-    {
-        "value": "button mushrooms (or portobello mushrooms)",
-        "label": "button mushrooms (or portobello mushrooms)"
-    },
-    {
-        "value": "button mushrooms (use portabella mushrooms you get)",
-        "label": "button mushrooms (use portabella mushrooms you get)"
-    },
-    {
-        "value": "button mushrooms (you can alternatively combination vegetables like beans",
-        "label": "button mushrooms (you can alternatively combination vegetables like beans"
-    },
-    {
-        "value": "button mushrooms (you can type mushrooms you prefer)",
-        "label": "button mushrooms (you can type mushrooms you prefer)"
-    },
+   
+   
     {
         "value": "button mushrooms cremini mushrooms",
         "label": "button mushrooms cremini mushrooms"
@@ -2716,10 +1917,7 @@ export const data= [
         "value": "button mushrooms large",
         "label": "button mushrooms large"
     },
-    {
-        "value": "button mushrooms large portobello mushroom",
-        "label": "button mushrooms large portobello mushroom"
-    },
+ 
     {
         "value": "button mushrooms mushroom",
         "label": "button mushrooms mushroom"
@@ -2740,10 +1938,7 @@ export const data= [
         "value": "button mushrooms stem",
         "label": "button mushrooms stem"
     },
-    {
-        "value": "button mushrooms(any local variety)",
-        "label": "button mushrooms(any local variety)"
-    },
+ 
     {
         "value": "byadagi chilli powder",
         "label": "byadagi chilli powder"
@@ -2756,10 +1951,7 @@ export const data= [
         "value": "byadagi dried chillies water",
         "label": "byadagi dried chillies water"
     },
-    {
-        "value": "byadagi dried chillies you can kashmiri chillies red chillies)",
-        "label": "byadagi dried chillies you can kashmiri chillies red chillies)"
-    },
+ 
     {
         "value": "c (optional)",
         "label": "c (optional)"
@@ -2772,38 +1964,7 @@ export const data= [
         "value": "cabbage (patta gobi muttaikose)",
         "label": "cabbage (patta gobi muttaikose)"
     },
-    {
-        "value": "cabbage (patta gobi muttaikose) ( keep cold water till use)",
-        "label": "cabbage (patta gobi muttaikose) ( keep cold water till use)"
-    },
-    {
-        "value": "cabbage (patta gobi muttaikose) (red green cabbage)",
-        "label": "cabbage (patta gobi muttaikose) (red green cabbage)"
-    },
-    {
-        "value": "cabbage (patta gobi muttaikose) head",
-        "label": "cabbage (patta gobi muttaikose) head"
-    },
-    {
-        "value": "cabbage (patta gobi muttaikose) leaves",
-        "label": "cabbage (patta gobi muttaikose) leaves"
-    },
-    {
-        "value": "cabbage (patta gobi muttaikose) leaves presentation",
-        "label": "cabbage (patta gobi muttaikose) leaves presentation"
-    },
-    {
-        "value": "cabbage (patta gobi muttaikose) miced",
-        "label": "cabbage (patta gobi muttaikose) miced"
-    },
-    {
-        "value": "cabbage (patta gobi muttaikose)cabbage",
-        "label": "cabbage (patta gobi muttaikose)cabbage"
-    },
-    {
-        "value": "cabbage (patta gobi muttaikose)or",
-        "label": "cabbage (patta gobi muttaikose)or"
-    },
+   
     {
         "value": "cabbage leaves",
         "label": "cabbage leaves"
@@ -2816,14 +1977,7 @@ export const data= [
         "value": "cajun spice mix",
         "label": "cajun spice mix"
     },
-    {
-        "value": "cajun spice mix chutney podi sprinkling on top",
-        "label": "cajun spice mix chutney podi sprinkling on top"
-    },
-    {
-        "value": "cake mix used pillsbury vanilla cake mix",
-        "label": "cake mix used pillsbury vanilla cake mix"
-    },
+   
     {
         "value": "can bamboo (store bought)",
         "label": "can bamboo (store bought)"
@@ -2844,58 +1998,22 @@ export const data= [
         "value": "cane sugar",
         "label": "cane sugar"
     },
-    {
-        "value": "cane sugar coconut sugar",
-        "label": "cane sugar coconut sugar"
-    },
-    {
-        "value": "canned beans",
-        "label": "canned beans"
-    },
+   
     {
         "value": "canned black beans",
         "label": "canned black beans"
     },
-    {
-        "value": "canned black beans (canned)",
-        "label": "canned black beans (canned)"
-    },
+  
     {
         "value": "canned cherries",
         "label": "canned cherries"
     },
-    {
-        "value": "canned cherries available cherries",
-        "label": "canned cherries available cherries"
-    },
-    {
-        "value": "canned cherries garnsh",
-        "label": "canned cherries garnsh"
-    },
-    {
-        "value": "canned tuna",
-        "label": "canned tuna"
-    },
-    {
-        "value": "canned tuna ( tuna from standard tin)",
-        "label": "canned tuna ( tuna from standard tin)"
-    },
+   
     {
         "value": "canola oil",
         "label": "canola oil"
     },
-    {
-        "value": "canola oil flavorless oil",
-        "label": "canola oil flavorless oil"
-    },
-    {
-        "value": "canola oil olive oil",
-        "label": "canola oil olive oil"
-    },
-    {
-        "value": "canola oil pan masoor dal fritters",
-        "label": "canola oil pan masoor dal fritters"
-    },
+   
     {
         "value": "cape gooseberries husk",
         "label": "cape gooseberries husk"
@@ -2912,14 +2030,7 @@ export const data= [
         "value": "capsicum (green)",
         "label": "capsicum (green)"
     },
-    {
-        "value": "capsicum (green) red yellow",
-        "label": "capsicum (green) red yellow"
-    },
-    {
-        "value": "capsicum (pili) take apple cider vinegar",
-        "label": "capsicum (pili) take apple cider vinegar"
-    },
+   
     {
         "value": "capsicum (red)",
         "label": "capsicum (red)"
@@ -2940,86 +2051,7 @@ export const data= [
         "value": "cardamom (elaichi)",
         "label": "cardamom (elaichi)"
     },
-    {
-        "value": "cardamom (elaichi) podsseeds",
-        "label": "cardamom (elaichi) podsseeds"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds black",
-        "label": "cardamom (elaichi) podsseeds black"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds cinnamon powder flavour",
-        "label": "cardamom (elaichi) podsseeds cinnamon powder flavour"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds green",
-        "label": "cardamom (elaichi) podsseeds green"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds grind",
-        "label": "cardamom (elaichi) podsseeds grind"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds ground",
-        "label": "cardamom (elaichi) podsseeds ground"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds ground make coarse powder",
-        "label": "cardamom (elaichi) podsseeds ground make coarse powder"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds mortarpestle",
-        "label": "cardamom (elaichi) podsseeds mortarpestle"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds powder",
-        "label": "cardamom (elaichi) podsseeds powder"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds seed powder",
-        "label": "cardamom (elaichi) podsseeds seed powder"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds seeds",
-        "label": "cardamom (elaichi) podsseeds seeds"
-    },
-    {
-        "value": "cardamom (elaichi) podsseeds skin pound",
-        "label": "cardamom (elaichi) podsseeds skin pound"
-    },
-    {
-        "value": "cardamom break",
-        "label": "cardamom break"
-    },
-    {
-        "value": "cardamom crush",
-        "label": "cardamom crush"
-    },
-    {
-        "value": "cardamom grind",
-        "label": "cardamom grind"
-    },
-    {
-        "value": "cardamom powder",
-        "label": "cardamom powder"
-    },
-    {
-        "value": "cardamom powder (elaichi)",
-        "label": "cardamom powder (elaichi)"
-    },
-    {
-        "value": "cardamom powder (elaichi) cardamom powder",
-        "label": "cardamom powder (elaichi) cardamom powder"
-    },
-    {
-        "value": "cardamom powder (elaichi) ground",
-        "label": "cardamom powder (elaichi) ground"
-    },
-    {
-        "value": "cardamom powder grind",
-        "label": "cardamom powder grind"
-    },
+    
     {
         "value": "carrot",
         "label": "carrot"
@@ -3032,10 +2064,7 @@ export const data= [
         "value": "carrot (red)",
         "label": "carrot (red)"
     },
-    {
-        "value": "carrot approximately \u201d",
-        "label": "carrot approximately \u201d"
-    },
+
     {
         "value": "carrot beans peas",
         "label": "carrot beans peas"
@@ -3048,54 +2077,7 @@ export const data= [
         "value": "carrot cake recipe leftover",
         "label": "carrot cake recipe leftover"
     },
-    {
-        "value": "carrot carrot",
-        "label": "carrot carrot"
-    },
-    {
-        "value": "carrot centimetre cubes",
-        "label": "carrot centimetre cubes"
-    },
-    {
-        "value": "carrot circles",
-        "label": "carrot circles"
-    },
-    {
-        "value": "carrot coins",
-        "label": "carrot coins"
-    },
-    {
-        "value": "carrot cubes",
-        "label": "carrot cubes"
-    },
-    {
-        "value": "carrot dices",
-        "label": "carrot dices"
-    },
-    {
-        "value": "carrot finger coins",
-        "label": "carrot finger coins"
-    },
-    {
-        "value": "carrot julianne",
-        "label": "carrot julianne"
-    },
-    {
-        "value": "carrot julienne",
-        "label": "carrot julienne"
-    },
-    {
-        "value": "carrot matchsticks",
-        "label": "carrot matchsticks"
-    },
-    {
-        "value": "carrot ness",
-        "label": "carrot ness"
-    },
-    {
-        "value": "carrot pelled",
-        "label": "carrot pelled"
-    },
+   
     {
         "value": "carrot red",
         "label": "carrot red"
@@ -3132,22 +2114,7 @@ export const data= [
         "value": "cashew nuts",
         "label": "cashew nuts"
     },
-    {
-        "value": "cashew nuts (tender s)",
-        "label": "cashew nuts (tender s)"
-    },
-    {
-        "value": "cashew nuts (whole)",
-        "label": "cashew nuts (whole)"
-    },
-    {
-        "value": "cashew nuts approximately",
-        "label": "cashew nuts approximately"
-    },
-    {
-        "value": "cashew nuts cashew nuts",
-        "label": "cashew nuts cashew nuts"
-    },
+   
     {
         "value": "cashew nuts decoration",
         "label": "cashew nuts decoration"
@@ -3172,22 +2139,7 @@ export const data= [
         "value": "cashew nuts ground paste",
         "label": "cashew nuts ground paste"
     },
-    {
-        "value": "cashew nuts ground paste (we need paste)",
-        "label": "cashew nuts ground paste (we need paste)"
-    },
-    {
-        "value": "cashew nuts ground smooth paste",
-        "label": "cashew nuts ground smooth paste"
-    },
-    {
-        "value": "cashew nuts ground smooth paste water",
-        "label": "cashew nuts ground smooth paste water"
-    },
-    {
-        "value": "cashew nuts hour minimum",
-        "label": "cashew nuts hour minimum"
-    },
+  
     {
         "value": "cashew nuts least",
         "label": "cashew nuts least"
@@ -3264,38 +2216,7 @@ export const data= [
         "value": "caster sugar",
         "label": "caster sugar"
     },
-    {
-        "value": "caster sugar ( sugar)",
-        "label": "caster sugar ( sugar)"
-    },
-    {
-        "value": "caster sugar (or sugar)",
-        "label": "caster sugar (or sugar)"
-    },
-    {
-        "value": "caster sugar (reduce sugar quantity coconut sweetened)",
-        "label": "caster sugar (reduce sugar quantity coconut sweetened)"
-    },
-    {
-        "value": "caster sugar a",
-        "label": "caster sugar a"
-    },
-    {
-        "value": "caster sugar brown sugar",
-        "label": "caster sugar brown sugar"
-    },
-    {
-        "value": "caster sugar divided",
-        "label": "caster sugar divided"
-    },
-    {
-        "value": "caster sugar garnsih",
-        "label": "caster sugar garnsih"
-    },
-    {
-        "value": "caster sugar superfine",
-        "label": "caster sugar superfine"
-    },
+   
     {
         "value": "cauliflower",
         "label": "cauliflower"
@@ -3304,10 +2225,7 @@ export const data= [
         "value": "cauliflower (gobi)",
         "label": "cauliflower (gobi)"
     },
-    {
-        "value": "cauliflower (gobi) (approximately large cauliflower)",
-        "label": "cauliflower (gobi) (approximately large cauliflower)"
-    },
+
     {
         "value": "cauliflower (gobi) clorets",
         "label": "cauliflower (gobi) clorets"
@@ -3360,10 +2278,7 @@ export const data= [
         "value": "cayenne pepper ground",
         "label": "cayenne pepper ground"
     },
-    {
-        "value": "cayenne pepper red chilli powder",
-        "label": "cayenne pepper red chilli powder"
-    },
+ 
     {
         "value": "celery",
         "label": "celery"
@@ -3424,42 +2339,7 @@ export const data= [
         "value": "chana dal (bengal gram dal)",
         "label": "chana dal (bengal gram dal)"
     },
-    {
-        "value": "chana dal (bengal gram dal) (for hour)",
-        "label": "chana dal (bengal gram dal) (for hour)"
-    },
-    {
-        "value": "chana dal (bengal gram dal) atleast",
-        "label": "chana dal (bengal gram dal) atleast"
-    },
-    {
-        "value": "chana dal (bengal gram dal) fro",
-        "label": "chana dal (bengal gram dal) fro"
-    },
-    {
-        "value": "chana dal (bengal gram dal) ground",
-        "label": "chana dal (bengal gram dal) ground"
-    },
-    {
-        "value": "chana dal (bengal gram dal) hour",
-        "label": "chana dal (bengal gram dal) hour"
-    },
-    {
-        "value": "chana dal (bengal gram dal) least",
-        "label": "chana dal (bengal gram dal) least"
-    },
-    {
-        "value": "chana dal (bengal gram dal) min",
-        "label": "chana dal (bengal gram dal) min"
-    },
-    {
-        "value": "chana dal (bengal gram dal) mins",
-        "label": "chana dal (bengal gram dal) mins"
-    },
-    {
-        "value": "chana dal (bengal gram dal) split",
-        "label": "chana dal (bengal gram dal) split"
-    },
+   
     {
         "value": "chana lentils",
         "label": "chana lentils"
@@ -3468,10 +2348,7 @@ export const data= [
         "value": "chana masala powder",
         "label": "chana masala powder"
     },
-    {
-        "value": "chana stock (water which channa was )",
-        "label": "chana stock (water which channa was )"
-    },
+  
     {
         "value": "chandi'work eater",
         "label": "chandi'work eater"
@@ -3552,10 +2429,7 @@ export const data= [
         "value": "cheese",
         "label": "cheese"
     },
-    {
-        "value": "cheese (at )",
-        "label": "cheese (at )"
-    },
+
     {
         "value": "cheese (cheddar mexican cheese)",
         "label": "cheese (cheddar mexican cheese)"
@@ -3564,38 +2438,7 @@ export const data= [
         "value": "cheese (cheddar parmesan)",
         "label": "cheese (cheddar parmesan)"
     },
-    {
-        "value": "cheese (flavored",
-        "label": "cheese (flavored"
-    },
-    {
-        "value": "cheese (for topping)",
-        "label": "cheese (for topping)"
-    },
-    {
-        "value": "cheese (gruyere cheddar)",
-        "label": "cheese (gruyere cheddar)"
-    },
-    {
-        "value": "cheese (like flavored herbed cheese)",
-        "label": "cheese (like flavored herbed cheese)"
-    },
-    {
-        "value": "cheese (preferably mozzarella)",
-        "label": "cheese (preferably mozzarella)"
-    },
-    {
-        "value": "cheese (reduced fat fat free)",
-        "label": "cheese (reduced fat fat free)"
-    },
-    {
-        "value": "cheese (use britannia",
-        "label": "cheese (use britannia"
-    },
-    {
-        "value": "cheese britannia'classic cheese z",
-        "label": "cheese britannia'classic cheese z"
-    },
+  
     {
         "value": "cheese chaat masala powder",
         "label": "cheese chaat masala powder"
@@ -3604,82 +2447,7 @@ export const data= [
         "value": "cheese cheese",
         "label": "cheese cheese"
     },
-    {
-        "value": "cheese cheese cheese",
-        "label": "cheese cheese cheese"
-    },
-    {
-        "value": "cheese crumble",
-        "label": "cheese crumble"
-    },
-    {
-        "value": "cheese cubes",
-        "label": "cheese cubes"
-    },
-    {
-        "value": "cheese flavored like jalepeno peppers works great",
-        "label": "cheese flavored like jalepeno peppers works great"
-    },
-    {
-        "value": "cheese flavoured",
-        "label": "cheese flavoured"
-    },
-    {
-        "value": "cheese frosting",
-        "label": "cheese frosting"
-    },
-    {
-        "value": "cheese over the bread",
-        "label": "cheese over the bread"
-    },
-    {
-        "value": "cheese pepper",
-        "label": "cheese pepper"
-    },
-    {
-        "value": "cheese pepper flavour prefered",
-        "label": "cheese pepper flavour prefered"
-    },
-    {
-        "value": "cheese per tasete",
-        "label": "cheese per tasete"
-    },
-    {
-        "value": "cheese philadelphia)",
-        "label": "cheese philadelphia)"
-    },
-    {
-        "value": "cheese plus topping",
-        "label": "cheese plus topping"
-    },
-    {
-        "value": "cheese processed",
-        "label": "cheese processed"
-    },
-    {
-        "value": "cheese processed chees",
-        "label": "cheese processed chees"
-    },
-    {
-        "value": "cheese slice",
-        "label": "cheese slice"
-    },
-    {
-        "value": "cheese soft paneer",
-        "label": "cheese soft paneer"
-    },
-    {
-        "value": "cheese you can do take paneer salt grind mixer",
-        "label": "cheese you can do take paneer salt grind mixer"
-    },
-    {
-        "value": "cheese you find difficult get",
-        "label": "cheese you find difficult get"
-    },
-    {
-        "value": "cheese)",
-        "label": "cheese)"
-    },
+   
     {
         "value": "cheesehua pepper powder",
         "label": "cheesehua pepper powder"
@@ -3692,34 +2460,12 @@ export const data= [
         "value": "chenna",
         "label": "chenna"
     },
-    {
-        "value": "chenna ( recipe portions)",
-        "label": "chenna ( recipe portions)"
-    },
+   
     {
         "value": "cherries",
         "label": "cherries"
     },
-    {
-        "value": "cherries ( ) plus cherries stems",
-        "label": "cherries ( ) plus cherries stems"
-    },
-    {
-        "value": "cherries (or canned) a",
-        "label": "cherries (or canned) a"
-    },
-    {
-        "value": "cherries (or fruits whipped",
-        "label": "cherries (or fruits whipped"
-    },
-    {
-        "value": "cherries dried",
-        "label": "cherries dried"
-    },
-    {
-        "value": "cherries stem",
-        "label": "cherries stem"
-    },
+  
     {
         "value": "cherries strawberries",
         "label": "cherries strawberries"
@@ -3736,22 +2482,7 @@ export const data= [
         "value": "cherry tomato",
         "label": "cherry tomato"
     },
-    {
-        "value": "cherry tomato (or large tomato",
-        "label": "cherry tomato (or large tomato"
-    },
-    {
-        "value": "cherry tomato grapes",
-        "label": "cherry tomato grapes"
-    },
-    {
-        "value": "cherry tomato heirloom tomato",
-        "label": "cherry tomato heirloom tomato"
-    },
-    {
-        "value": "cherry tomato large tomato",
-        "label": "cherry tomato large tomato"
-    },
+  
     {
         "value": "chhedar cheese ed",
         "label": "chhedar cheese ed"
@@ -3780,14 +2511,7 @@ export const data= [
         "value": "chicken (bless)",
         "label": "chicken (bless)"
     },
-    {
-        "value": "chicken (chicken bs gives better )",
-        "label": "chicken (chicken bs gives better )"
-    },
-    {
-        "value": "chicken (preferably bs)",
-        "label": "chicken (preferably bs)"
-    },
+  
     {
         "value": "chicken (thigh drumstick)",
         "label": "chicken (thigh drumstick)"
@@ -3804,10 +2528,7 @@ export const data= [
         "value": "chicken bless",
         "label": "chicken bless"
     },
-    {
-        "value": "chicken bless skinless breast piece angular",
-        "label": "chicken bless skinless breast piece angular"
-    },
+  
     {
         "value": "chicken boiled bless",
         "label": "chicken boiled bless"
@@ -3844,10 +2565,7 @@ export const data= [
         "value": "chicken breasts juliennes",
         "label": "chicken breasts juliennes"
     },
-    {
-        "value": "chicken breasts pressure till tender ( whistles)",
-        "label": "chicken breasts pressure till tender ( whistles)"
-    },
+   
     {
         "value": "chicken breasts skinless bless",
         "label": "chicken breasts skinless bless"
@@ -3908,10 +2626,7 @@ export const data= [
         "value": "chicken masala",
         "label": "chicken masala"
     },
-    {
-        "value": "chicken masala (you can other too but prefer eastern masalas kerala style preparations)",
-        "label": "chicken masala (you can other too but prefer eastern masalas kerala style preparations)"
-    },
+   
     {
         "value": "chicken mince",
         "label": "chicken mince"
@@ -4284,14 +2999,8 @@ export const data= [
         "value": "cinnamon stick (dalchini) crush coarse powder",
         "label": "cinnamon stick (dalchini) crush coarse powder"
     },
-    {
-        "value": "cinnamon stick (dalchini) ground",
-        "label": "cinnamon stick (dalchini) ground"
-    },
-    {
-        "value": "cinnamon sugar mix sugar cinnamon powder let rest some time before",
-        "label": "cinnamon sugar mix sugar cinnamon powder let rest some time before"
-    },
+  
+ 
     {
         "value": "citric acid crystals",
         "label": "citric acid crystals"
@@ -4616,22 +3325,8 @@ export const data= [
         "value": "coconut milk",
         "label": "coconut milk"
     },
-    {
-        "value": "coconut milk (nd rd ct)",
-        "label": "coconut milk (nd rd ct)"
-    },
-    {
-        "value": "coconut milk (st ct)",
-        "label": "coconut milk (st ct)"
-    },
-    {
-        "value": "coconut milk almond milk",
-        "label": "coconut milk almond milk"
-    },
-    {
-        "value": "coconut milk canned",
-        "label": "coconut milk canned"
-    },
+   
+   
     {
         "value": "coconut milk coconut",
         "label": "coconut milk coconut"
@@ -4640,30 +3335,12 @@ export const data= [
         "value": "coconut milk consistency",
         "label": "coconut milk consistency"
     },
-    {
-        "value": "coconut milk first",
-        "label": "coconut milk first"
-    },
-    {
-        "value": "coconut milk give",
-        "label": "coconut milk give"
-    },
-    {
-        "value": "coconut milk regular milk",
-        "label": "coconut milk regular milk"
-    },
+
     {
         "value": "coconut milk second third",
         "label": "coconut milk second third"
     },
-    {
-        "value": "coconut milk toddy",
-        "label": "coconut milk toddy"
-    },
-    {
-        "value": "coconut milk unsweetened",
-        "label": "coconut milk unsweetened"
-    },
+  
     {
         "value": "coconut oil",
         "label": "coconut oil"
@@ -4772,10 +3449,7 @@ export const data= [
         "value": "coconut sugar jaggery",
         "label": "coconut sugar jaggery"
     },
-    {
-        "value": "coconut sugar on top",
-        "label": "coconut sugar on top"
-    },
+
     {
         "value": "coconut sweetened",
         "label": "coconut sweetened"
@@ -5704,10 +4378,7 @@ export const data= [
         "value": "dal sugar",
         "label": "dal sugar"
     },
-    {
-        "value": "dal sugar powder",
-        "label": "dal sugar powder"
-    },
+
     {
         "value": "dark chocolate",
         "label": "dark chocolate"
@@ -5848,22 +4519,7 @@ export const data= [
         "value": "dates water",
         "label": "dates water"
     },
-    {
-        "value": "decorative sugar (cake candy s)",
-        "label": "decorative sugar (cake candy s)"
-    },
-    {
-        "value": "decorative sugar (cake candy s) (preferably",
-        "label": "decorative sugar (cake candy s) (preferably"
-    },
-    {
-        "value": "decorative sugar (cake candy s) decorate",
-        "label": "decorative sugar (cake candy s) decorate"
-    },
-    {
-        "value": "decorative sugar (cake candy s) decorating",
-        "label": "decorative sugar (cake candy s) decorating"
-    },
+  
     {
         "value": "del monte black olives",
         "label": "del monte black olives"
@@ -9228,26 +7884,7 @@ export const data= [
         "value": "icing sugar",
         "label": "icing sugar"
     },
-    {
-        "value": "icing sugar ( ml)",
-        "label": "icing sugar ( ml)"
-    },
-    {
-        "value": "icing sugar (to )",
-        "label": "icing sugar (to )"
-    },
-    {
-        "value": "icing sugar dust",
-        "label": "icing sugar dust"
-    },
-    {
-        "value": "icing sugar sifted",
-        "label": "icing sugar sifted"
-    },
-    {
-        "value": "icing sugar whipping",
-        "label": "icing sugar whipping"
-    },
+  
     {
         "value": "idiyappam",
         "label": "idiyappam"
@@ -9524,10 +8161,7 @@ export const data= [
         "value": "jaggery pomegranate mollases",
         "label": "jaggery pomegranate mollases"
     },
-    {
-        "value": "jaggery pound",
-        "label": "jaggery pound"
-    },
+
     {
         "value": "jaggery powder",
         "label": "jaggery powder"
@@ -9540,10 +8174,7 @@ export const data= [
         "value": "jaggery sugar",
         "label": "jaggery sugar"
     },
-    {
-        "value": "jaggery suit",
-        "label": "jaggery suit"
-    },
+
     {
         "value": "jal jeera powder",
         "label": "jal jeera powder"
@@ -11124,50 +9755,17 @@ export const data= [
         "value": "milk",
         "label": "milk"
     },
-    {
-        "value": "milk ( cooled)",
-        "label": "milk ( cooled)"
-    },
-    {
-        "value": "milk (full fat milk",
-        "label": "milk (full fat milk"
-    },
+
     {
         "value": "milk (full fat)",
         "label": "milk (full fat)"
     },
-    {
-        "value": "milk (full fat) cooled",
-        "label": "milk (full fat) cooled"
-    },
-    {
-        "value": "milk (or milk",
-        "label": "milk (or milk"
-    },
-    {
-        "value": "milk (use % fat milk",
-        "label": "milk (use % fat milk"
-    },
-    {
-        "value": "milk (with full",
-        "label": "milk (with full"
-    },
+
     {
         "value": "milk almond milk",
         "label": "milk almond milk"
     },
-    {
-        "value": "milk almond milk vegans",
-        "label": "milk almond milk vegans"
-    },
-    {
-        "value": "milk binding",
-        "label": "milk binding"
-    },
-    {
-        "value": "milk brushing",
-        "label": "milk brushing"
-    },
+
     {
         "value": "milk chocolate",
         "label": "milk chocolate"
@@ -11176,74 +9774,7 @@ export const data= [
         "value": "milk coconut milk",
         "label": "milk coconut milk"
     },
-    {
-        "value": "milk coconut milk almond milk",
-        "label": "milk coconut milk almond milk"
-    },
-    {
-        "value": "milk coconut milk vegan option",
-        "label": "milk coconut milk vegan option"
-    },
-    {
-        "value": "milk cold",
-        "label": "milk cold"
-    },
-    {
-        "value": "milk cold milk",
-        "label": "milk cold milk"
-    },
-    {
-        "value": "milk cooled",
-        "label": "milk cooled"
-    },
-    {
-        "value": "milk divided",
-        "label": "milk divided"
-    },
-    {
-        "value": "milk ed",
-        "label": "milk ed"
-    },
-    {
-        "value": "milk eggs the pastry",
-        "label": "milk eggs the pastry"
-    },
-    {
-        "value": "milk evaporated",
-        "label": "milk evaporated"
-    },
-    {
-        "value": "milk evaporated milk",
-        "label": "milk evaporated milk"
-    },
-    {
-        "value": "milk full",
-        "label": "milk full"
-    },
-    {
-        "value": "milk full fat",
-        "label": "milk full fat"
-    },
-    {
-        "value": "milk full fat milk",
-        "label": "milk full fat milk"
-    },
-    {
-        "value": "milk full fat milk coconut milk vegans",
-        "label": "milk full fat milk coconut milk vegans"
-    },
-    {
-        "value": "milk full fat+",
-        "label": "milk full fat+"
-    },
-    {
-        "value": "milk knead the dough",
-        "label": "milk knead the dough"
-    },
-    {
-        "value": "milk litter",
-        "label": "milk litter"
-    },
+
     {
         "value": "milk mix cornflour",
         "label": "milk mix cornflour"
@@ -11252,10 +9783,7 @@ export const data= [
         "value": "milk mixed cornflour",
         "label": "milk mixed cornflour"
     },
-    {
-        "value": "milk needed",
-        "label": "milk needed"
-    },
+
     {
         "value": "milk powder",
         "label": "milk powder"
@@ -11276,10 +9804,7 @@ export const data= [
         "value": "milk skimmed",
         "label": "milk skimmed"
     },
-    {
-        "value": "milk soak saffron ( milk",
-        "label": "milk soak saffron ( milk"
-    },
+
     {
         "value": "milk soaking saffron",
         "label": "milk soaking saffron"
@@ -11336,14 +9861,7 @@ export const data= [
         "value": "mint leaves (pudina) (you can also basilcoriander)",
         "label": "mint leaves (pudina) (you can also basilcoriander)"
     },
-    {
-        "value": "mint leaves (pudina) a",
-        "label": "mint leaves (pudina) a"
-    },
-    {
-        "value": "mint leaves (pudina) bunch",
-        "label": "mint leaves (pudina) bunch"
-    },
+
     {
         "value": "mint leaves (pudina) coriander leaves",
         "label": "mint leaves (pudina) coriander leaves"
@@ -11372,26 +9890,12 @@ export const data= [
         "value": "mint leaves (pudina) ground paste",
         "label": "mint leaves (pudina) ground paste"
     },
-    {
-        "value": "mint leaves (pudina) leaves",
-        "label": "mint leaves (pudina) leaves"
-    },
-    {
-        "value": "mint leaves (pudina) loosely packed",
-        "label": "mint leaves (pudina) loosely packed"
-    },
-    {
-        "value": "mint leaves (pudina) mint leaves",
-        "label": "mint leaves (pudina) mint leaves"
-    },
+
     {
         "value": "mint leaves (pudina) paste",
         "label": "mint leaves (pudina) paste"
     },
-    {
-        "value": "mint leaves (pudina) plus",
-        "label": "mint leaves (pudina) plus"
-    },
+
     {
         "value": "mint leaves (pudina) salt",
         "label": "mint leaves (pudina) salt"
@@ -11468,30 +9972,7 @@ export const data= [
         "value": "mixed fruits",
         "label": "mixed fruits"
     },
-    {
-        "value": "mixed fruits (kiwi",
-        "label": "mixed fruits (kiwi"
-    },
-    {
-        "value": "mixed fruits apples",
-        "label": "mixed fruits apples"
-    },
-    {
-        "value": "mixed fruits assortment fruits like",
-        "label": "mixed fruits assortment fruits like"
-    },
-    {
-        "value": "mixed fruits figs",
-        "label": "mixed fruits figs"
-    },
-    {
-        "value": "mixed fruits pineapple",
-        "label": "mixed fruits pineapple"
-    },
-    {
-        "value": "mixed grains (amaranth",
-        "label": "mixed grains (amaranth"
-    },
+
     {
         "value": "mixed greens",
         "label": "mixed greens"
@@ -12756,30 +11237,7 @@ export const data= [
         "value": "palm sugar",
         "label": "palm sugar"
     },
-    {
-        "value": "palm sugar (if )",
-        "label": "palm sugar (if )"
-    },
-    {
-        "value": "palm sugar (panakalkandu)",
-        "label": "palm sugar (panakalkandu)"
-    },
-    {
-        "value": "palm sugar brown sugar",
-        "label": "palm sugar brown sugar"
-    },
-    {
-        "value": "palm sugar jaggery",
-        "label": "palm sugar jaggery"
-    },
-    {
-        "value": "palm sugar jaggery also will do",
-        "label": "palm sugar jaggery also will do"
-    },
-    {
-        "value": "palm sugar sweeten the yogurt",
-        "label": "palm sugar sweeten the yogurt"
-    },
+   
     {
         "value": "panch foran masala",
         "label": "panch foran masala"
@@ -17012,58 +15470,13 @@ export const data= [
         "value": "sugar",
         "label": "sugar"
     },
-    {
-        "value": "sugar (",
-        "label": "sugar ("
-    },
-    {
-        "value": "sugar ( case you intend not pineapple juice)",
-        "label": "sugar ( case you intend not pineapple juice)"
-    },
-    {
-        "value": "sugar ( kids crowd sweet tooth)",
-        "label": "sugar ( kids crowd sweet tooth)"
-    },
-    {
-        "value": "sugar ( preference)",
-        "label": "sugar ( preference)"
-    },
-    {
-        "value": "sugar (and )",
-        "label": "sugar (and )"
-    },
+
+  
     {
         "value": "sugar (grinded)",
         "label": "sugar (grinded)"
     },
-    {
-        "value": "sugar (light brown) topping",
-        "label": "sugar (light brown) topping"
-    },
-    {
-        "value": "sugar (only ) (have not ed this recipe)",
-        "label": "sugar (only ) (have not ed this recipe)"
-    },
-    {
-        "value": "sugar (or rock candy sugar)",
-        "label": "sugar (or rock candy sugar)"
-    },
-    {
-        "value": "sugar (use sweetener you want down on sugar)",
-        "label": "sugar (use sweetener you want down on sugar)"
-    },
-    {
-        "value": "sugar (you can you like sweet)",
-        "label": "sugar (you can you like sweet)"
-    },
-    {
-        "value": "sugar evaporated",
-        "label": "sugar evaporated"
-    },
-    {
-        "value": "sugar grind the cardamom",
-        "label": "sugar grind the cardamom"
-    },
+  
     {
         "value": "sugar icing sugar",
         "label": "sugar icing sugar"
@@ -17076,54 +15489,18 @@ export const data= [
         "value": "sugar jaggery",
         "label": "sugar jaggery"
     },
-    {
-        "value": "sugar on top",
-        "label": "sugar on top"
-    },
-    {
-        "value": "sugar organic sugar)",
-        "label": "sugar organic sugar)"
-    },
-    {
-        "value": "sugar organic)",
-        "label": "sugar organic)"
-    },
-    {
-        "value": "sugar pc",
-        "label": "sugar pc"
-    },
+
+
     {
         "value": "sugar snap peas",
         "label": "sugar snap peas"
     },
-    {
-        "value": "sugar sprinkling",
-        "label": "sugar sprinkling"
-    },
-    {
-        "value": "sugar superfine",
-        "label": "sugar superfine"
-    },
-    {
-        "value": "sugar syrup",
-        "label": "sugar syrup"
-    },
-    {
-        "value": "sugar the cookies",
-        "label": "sugar the cookies"
-    },
+
     {
         "value": "sugarcane juice",
         "label": "sugarcane juice"
     },
-    {
-        "value": "sugarof sugar",
-        "label": "sugarof sugar"
-    },
-    {
-        "value": "sugarsugar",
-        "label": "sugarsugar"
-    },
+
     {
         "value": "sultanas",
         "label": "sultanas"

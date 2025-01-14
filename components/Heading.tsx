@@ -22,9 +22,9 @@ const Heading: React.FC<HeadingProps> = ({
       <div className={cn("p-2 w-fit rounded-md ", bgColor)}>
         <Icon className={cn("w-8 h-8 sm:w-10 sm:h-10", iconColor)} />
       </div>
-      <div className="max-w-[90%] flex  flex-col space-y-1 justify-center">
+      <div className="sm:max-w-[60%] md:max-w-[70%] flex  flex-col space-y-1 justify-center">
         <h2 className="text-xl sm:text-3xl font-bold text-white">{title}</h2>
-        <p className=" text-xs sm:text-sm text-muted-foreground text-green-50 ">
+        <p className=" text-xs sm:text-sm  text-gray-100 ">
           {description}
         </p>
       </div>

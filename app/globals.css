@@ -8,6 +8,10 @@ body,
   height: 100%;
 }
  
+.custom-spin {
+  animation: spin 1.75s linear infinite; /* Adjust the duration here (2s is slower than the default) */
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
