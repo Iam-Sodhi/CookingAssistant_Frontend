@@ -16,10 +16,7 @@ export const data= [
         "value": "aar maach (fish) (rohu katla)",
         "label": "aar maach (fish) (rohu katla)"
     },
-    {
-        "value": "aar maach (fish) rohu katla fish (cut steaks)",
-        "label": "aar maach (fish) rohu katla fish (cut steaks)"
-    },
+ 
     {
         "value": "achari masala",
         "label": "achari masala"
@@ -28,14 +25,7 @@ export const data= [
         "value": "achari mayo",
         "label": "achari mayo"
     },
-    {
-        "value": "achari mayo drizzling on top",
-        "label": "achari mayo drizzling on top"
-    },
-    {
-        "value": "achari mayo tikki",
-        "label": "achari mayo tikki"
-    },
+  
     {
         "value": "acorn squash",
         "label": "acorn squash"
@@ -52,30 +42,12 @@ export const data= [
         "value": "aerated water (soda water)",
         "label": "aerated water (soda water)"
     },
-    {
-        "value": "aerated water (soda water) sparkling water",
-        "label": "aerated water (soda water) sparkling water"
-    },
-    {
-        "value": "aerated water (soda water) water",
-        "label": "aerated water (soda water) water"
-    },
+   
     {
         "value": "agar agar",
         "label": "agar agar"
     },
-    {
-        "value": "agar agar (china grass)",
-        "label": "agar agar (china grass)"
-    },
-    {
-        "value": "agar agar gelatin",
-        "label": "agar agar gelatin"
-    },
-    {
-        "value": "agar agar strands",
-        "label": "agar agar strands"
-    },
+    
     {
         "value": "agathi keerai",
         "label": "agathi keerai"
@@ -93,18 +65,6 @@ export const data= [
         "label": "ajwain (carom seeds)"
     },
     {
-        "value": "ajwain (carom seeds) (shahi jeera)",
-        "label": "ajwain (carom seeds) (shahi jeera)"
-    },
-    {
-        "value": "ajwain (carom seeds) between palms",
-        "label": "ajwain (carom seeds) between palms"
-    },
-    {
-        "value": "ajwain (carom seeds) cumin seeds",
-        "label": "ajwain (carom seeds) cumin seeds"
-    },
-    {
         "value": "ajwain (carom seeds) pound",
         "label": "ajwain (carom seeds) pound"
     },
@@ -112,10 +72,7 @@ export const data= [
         "value": "ajwain (carom seeds) powder",
         "label": "ajwain (carom seeds) powder"
     },
-    {
-        "value": "ajwain (carom seeds) sesame seeds",
-        "label": "ajwain (carom seeds) sesame seeds"
-    },
+   
     {
         "value": "alfalfa powder",
         "label": "alfalfa powder"
@@ -128,14 +85,8 @@ export const data= [
         "value": "almond butter",
         "label": "almond butter"
     },
-    {
-        "value": "almond butter peanut butter",
-        "label": "almond butter peanut butter"
-    },
-    {
-        "value": "almond essence (badam essence)",
-        "label": "almond essence (badam essence)"
-    },
+ 
+   
     {
         "value": "almond meal (badam powder)",
         "label": "almond meal (badam powder)"
@@ -144,7 +95,6 @@ export const data= [
         "value": "almond milk (badam milk",
         "label": "almond milk (badam milk"
     },
-
  
     {
         "value": "almond oil (badam oil)",
@@ -162,26 +112,12 @@ export const data= [
         "value": "almonds (badam)",
         "label": "almonds (badam)"
     },
-    {
-        "value": "almonds (badam) a",
-        "label": "almonds (badam) a"
-    },
-    {
-        "value": "almonds (badam) almonds",
-        "label": "almonds (badam) almonds"
-    },
-    {
-        "value": "almonds (badam) pista cashews",
-        "label": "almonds (badam) pista cashews"
-    },
+ 
     {
         "value": "almonds (badam) pound",
         "label": "almonds (badam) pound"
     },
-    {
-        "value": "almonds (badam) walnuts",
-        "label": "almonds (badam) walnuts"
-    },
+ 
     {
         "value": "almonds soak",
         "label": "almonds soak"
@@ -227,10 +163,6 @@ export const data= [
         "label": "amchoor powder"
     },
     {
-        "value": "amchoor powder per requirement",
-        "label": "amchoor powder per requirement"
-    },
-    {
         "value": "amchur",
         "label": "amchur"
     },
@@ -238,22 +170,12 @@ export const data= [
         "value": "amchur (dry mango powder)",
         "label": "amchur (dry mango powder)"
     },
-    {
-        "value": "amchur (dry mango powder) (dried green mangoes easily available indian stores)",
-        "label": "amchur (dry mango powder) (dried green mangoes easily available indian stores)"
-    },
-    {
-        "value": "amchur (dry mango powder) (or juice from lemon)",
-        "label": "amchur (dry mango powder) (or juice from lemon)"
-    },
+    
     {
         "value": "amchur (dry mango powder) juice lemon",
         "label": "amchur (dry mango powder) juice lemon"
     },
-    {
-        "value": "amchur (dry mango powder) kokum (malabar tamarind)",
-        "label": "amchur (dry mango powder) kokum (malabar tamarind)"
-    },
+   
     {
         "value": "amchur lemon",
         "label": "amchur lemon"
@@ -290,18 +212,7 @@ export const data= [
         "value": "anardana powder (pomegranate seed powder) a",
         "label": "anardana powder (pomegranate seed powder) a"
     },
-    {
-        "value": "anardana powder (pomegranate seed powder) dried",
-        "label": "anardana powder (pomegranate seed powder) dried"
-    },
-    {
-        "value": "anardana powder (pomegranate seed powder) dry",
-        "label": "anardana powder (pomegranate seed powder) dry"
-    },
-    {
-        "value": "anardana powder (pomegranate seed powder) seeds",
-        "label": "anardana powder (pomegranate seed powder) seeds"
-    },
+   
     {
         "value": "aniseed",
         "label": "aniseed"
@@ -322,37 +233,10 @@ export const data= [
         "value": "apple cider vinegar",
         "label": "apple cider vinegar"
     },
-    {
-        "value": "apple cider vinegar vinegar",
-        "label": "apple cider vinegar vinegar"
-    },
-    {
-        "value": "apple cider vinegar white vinegar",
-        "label": "apple cider vinegar white vinegar"
-    },
-    {
-        "value": "apple cored",
-        "label": "apple cored"
-    },
-    {
-        "value": "apple cored spiralized noodles",
-        "label": "apple cored spiralized noodles"
-    },
-    {
-        "value": "apple crescent shaped",
-        "label": "apple crescent shaped"
-    },
-    {
-        "value": "apple juice",
-        "label": "apple juice"
-    },
+  
     {
         "value": "apple julienne",
         "label": "apple julienne"
-    },
-    {
-        "value": "apple matchstickthin",
-        "label": "apple matchstickthin"
     },
     {
         "value": "apple vodka",
@@ -418,42 +302,8 @@ export const data= [
         "value": "arhar dal (split toor dal)",
         "label": "arhar dal (split toor dal)"
     },
-    {
-        "value": "arhar dal (split toor dal) atleast",
-        "label": "arhar dal (split toor dal) atleast"
-    },
-    {
-        "value": "arhar dal (split toor dal) ground",
-        "label": "arhar dal (split toor dal) ground"
-    },
-    {
-        "value": "arhar dal (split toor dal) hour",
-        "label": "arhar dal (split toor dal) hour"
-    },
-    {
-        "value": "arhar dal (split toor dal) least",
-        "label": "arhar dal (split toor dal) least"
-    },
-    {
-        "value": "arhar dal (split toor dal) soak water",
-        "label": "arhar dal (split toor dal) soak water"
-    },
-    {
-        "value": "arhar dal (split toor dal) till soft",
-        "label": "arhar dal (split toor dal) till soft"
-    },
-    {
-        "value": "arhar dal (split toor dal) toor dal",
-        "label": "arhar dal (split toor dal) toor dal"
-    },
-    {
-        "value": "arhar dal moong dal",
-        "label": "arhar dal moong dal"
-    },
-    {
-        "value": "arhar dal soak",
-        "label": "arhar dal soak"
-    },
+   
+   
     {
         "value": "arisithipli",
         "label": "arisithipli"
@@ -470,10 +320,7 @@ export const data= [
         "value": "arrowroot flour (corn flour)",
         "label": "arrowroot flour (corn flour)"
     },
-    {
-        "value": "arrowroot flour corn flour",
-        "label": "arrowroot flour corn flour"
-    },
+ 
     {
         "value": "artichokes",
         "label": "artichokes"
@@ -530,14 +377,7 @@ export const data= [
         "value": "asafoetida (hing) irani asafoetida",
         "label": "asafoetida (hing) irani asafoetida"
     },
-    {
-        "value": "asafoetida (hing) large",
-        "label": "asafoetida (hing) large"
-    },
-    {
-        "value": "asafoetida (hing) pickle asafoetida)",
-        "label": "asafoetida (hing) pickle asafoetida)"
-    },
+  
     {
         "value": "asafoetida (hing) powder",
         "label": "asafoetida (hing) powder"
@@ -582,14 +422,7 @@ export const data= [
         "value": "avarekalu lilva beans pressure",
         "label": "avarekalu lilva beans pressure"
     },
-    {
-        "value": "avarekalu lilva beans skin",
-        "label": "avarekalu lilva beans skin"
-    },
-    {
-        "value": "avarekalu lilva beans stringed",
-        "label": "avarekalu lilva beans stringed"
-    },
+
     {
         "value": "avocado",
         "label": "avocado"
@@ -602,30 +435,7 @@ export const data= [
         "value": "avocado fork",
         "label": "avocado fork"
     },
-    {
-        "value": "avocado fully ripe",
-        "label": "avocado fully ripe"
-    },
-    {
-        "value": "avocado pulped",
-        "label": "avocado pulped"
-    },
-    {
-        "value": "avocado ripe",
-        "label": "avocado ripe"
-    },
-    {
-        "value": "avocado ripen",
-        "label": "avocado ripen"
-    },
-    {
-        "value": "avocado ripened",
-        "label": "avocado ripened"
-    },
-    {
-        "value": "avocado skin",
-        "label": "avocado skin"
-    },
+   
     {
         "value": "avocados",
         "label": "avocados"
@@ -646,46 +456,12 @@ export const data= [
         "value": "baby corn",
         "label": "baby corn"
     },
-    {
-        "value": "baby corn (if using",
-        "label": "baby corn (if using"
-    },
-    {
-        "value": "baby corn approximately",
-        "label": "baby corn approximately"
-    },
-    {
-        "value": "baby corn baby corn",
-        "label": "baby corn baby corn"
-    },
-    {
-        "value": "baby corn be",
-        "label": "baby corn be"
-    },
-    {
-        "value": "baby corn take",
-        "label": "baby corn take"
-    },
+    
     {
         "value": "baby potatoes",
         "label": "baby potatoes"
     },
-    {
-        "value": "baby potatoes (regular potatoes also work)",
-        "label": "baby potatoes (regular potatoes also work)"
-    },
-    {
-        "value": "baby potatoes potato",
-        "label": "baby potatoes potato"
-    },
-    {
-        "value": "baby potatoes quatered",
-        "label": "baby potatoes quatered"
-    },
-    {
-        "value": "baby potatoes skin",
-        "label": "baby potatoes skin"
-    },
+   
     {
         "value": "baby spinach",
         "label": "baby spinach"
@@ -694,14 +470,7 @@ export const data= [
         "value": "baby spinach (without stem)",
         "label": "baby spinach (without stem)"
     },
-    {
-        "value": "baby spinach salad leaves",
-        "label": "baby spinach salad leaves"
-    },
-    {
-        "value": "baby spinach tore",
-        "label": "baby spinach tore"
-    },
+   
     {
         "value": "bacon",
         "label": "bacon"
@@ -718,14 +487,7 @@ export const data= [
         "value": "badam (almond) ( smoked)",
         "label": "badam (almond) ( smoked)"
     },
-    {
-        "value": "badam (almond) (can be substituted other nuts)",
-        "label": "badam (almond) (can be substituted other nuts)"
-    },
-    {
-        "value": "badam (almond) (grind almonds mixer grinder speed)",
-        "label": "badam (almond) (grind almonds mixer grinder speed)"
-    },
+   
     {
         "value": "badam (almond) (preferably )",
         "label": "badam (almond) (preferably )"
@@ -734,26 +496,7 @@ export const data= [
         "value": "badam (almond) a",
         "label": "badam (almond) a"
     },
-    {
-        "value": "badam (almond) flaked",
-        "label": "badam (almond) flaked"
-    },
-    {
-        "value": "badam (almond) flaxes",
-        "label": "badam (almond) flaxes"
-    },
-    {
-        "value": "badam (almond) ground powder",
-        "label": "badam (almond) ground powder"
-    },
-    {
-        "value": "badam (almond) light",
-        "label": "badam (almond) light"
-    },
-    {
-        "value": "badam (almond) macadamia nuts",
-        "label": "badam (almond) macadamia nuts"
-    },
+   
     {
         "value": "badam (almond) paste",
         "label": "badam (almond) paste"
@@ -762,10 +505,7 @@ export const data= [
         "value": "badam (almond) pistachios",
         "label": "badam (almond) pistachios"
     },
-    {
-        "value": "badam (almond) pistachois will also do",
-        "label": "badam (almond) pistachois will also do"
-    },
+  
     {
         "value": "badam (almond) pound",
         "label": "badam (almond) pound"
@@ -786,10 +526,7 @@ export const data= [
         "value": "badam (almond) skin",
         "label": "badam (almond) skin"
     },
-    {
-        "value": "badam (almond) soak water the skin",
-        "label": "badam (almond) soak water the skin"
-    },
+   
     {
         "value": "badam (almond) walnuts",
         "label": "badam (almond) walnuts"
@@ -798,10 +535,7 @@ export const data= [
         "value": "badi (wadi)",
         "label": "badi (wadi)"
     },
-    {
-        "value": "badi (wadi) (sun dried lentil dumpling)",
-        "label": "badi (wadi) (sun dried lentil dumpling)"
-    },
+ 
     {
         "value": "badi (wadi) punjabi masala",
         "label": "badi (wadi) punjabi masala"
@@ -814,18 +548,7 @@ export const data= [
         "value": "badi hari mirch (large green chilli)",
         "label": "badi hari mirch (large green chilli)"
     },
-    {
-        "value": "badi hari mirch (large green chilli) (less spicy bajji variety)",
-        "label": "badi hari mirch (large green chilli) (less spicy bajji variety)"
-    },
-    {
-        "value": "badi hari mirch (large green chilli) (non spicy) stalk",
-        "label": "badi hari mirch (large green chilli) (non spicy) stalk"
-    },
-    {
-        "value": "badi hari mirch (large green chilli) seeds",
-        "label": "badi hari mirch (large green chilli) seeds"
-    },
+  
     {
         "value": "bagel",
         "label": "bagel"
@@ -934,18 +657,7 @@ export const data= [
         "value": "banana flower (vazhaipoo) (mocha)",
         "label": "banana flower (vazhaipoo) (mocha)"
     },
-    {
-        "value": "banana flower (vazhaipoo) buttermilk",
-        "label": "banana flower (vazhaipoo) buttermilk"
-    },
-    {
-        "value": "banana flower (vazhaipoo) from its stem",
-        "label": "banana flower (vazhaipoo) from its stem"
-    },
-    {
-        "value": "banana flower (vazhaipoo) ripe",
-        "label": "banana flower (vazhaipoo) ripe"
-    },
+   
     {
         "value": "banana leaf",
         "label": "banana leaf"
@@ -958,10 +670,7 @@ export const data= [
         "value": "banana leaf line the steamer",
         "label": "banana leaf line the steamer"
     },
-    {
-        "value": "banana leaf toss heat them squares remove the stem",
-        "label": "banana leaf toss heat them squares remove the stem"
-    },
+   
     {
         "value": "banana leaf wrap the fish",
         "label": "banana leaf wrap the fish"
@@ -1018,26 +727,8 @@ export const data= [
         "value": "bananas",
         "label": "bananas"
     },
-    {
-        "value": "bananas (large banana)",
-        "label": "bananas (large banana)"
-    },
-    {
-        "value": "bananas (over ripe great the recipe)",
-        "label": "bananas (over ripe great the recipe)"
-    },
-    {
-        "value": "bananas (over ripe)",
-        "label": "bananas (over ripe)"
-    },
-    {
-        "value": "bananas (sm variety over ripe)",
-        "label": "bananas (sm variety over ripe)"
-    },
-    {
-        "value": "bananas (spotted bananas)",
-        "label": "bananas (spotted bananas)"
-    },
+   
+   
     {
         "value": "bananas caramelised",
         "label": "bananas caramelised"
@@ -1046,46 +737,8 @@ export const data= [
         "value": "bananas cubes",
         "label": "bananas cubes"
     },
-    {
-        "value": "bananas diagonal",
-        "label": "bananas diagonal"
-    },
-    {
-        "value": "bananas fork",
-        "label": "bananas fork"
-    },
-    {
-        "value": "bananas fully ripe",
-        "label": "bananas fully ripe"
-    },
-    {
-        "value": "bananas heaped",
-        "label": "bananas heaped"
-    },
-    {
-        "value": "bananas nendra variety",
-        "label": "bananas nendra variety"
-    },
-    {
-        "value": "bananas ripe",
-        "label": "bananas ripe"
-    },
-    {
-        "value": "bananas robusta variety",
-        "label": "bananas robusta variety"
-    },
-    {
-        "value": "bananas slice top",
-        "label": "bananas slice top"
-    },
-    {
-        "value": "bananas spotty",
-        "label": "bananas spotty"
-    },
-    {
-        "value": "bananas the elaichi banana variety",
-        "label": "bananas the elaichi banana variety"
-    },
+  
+  
     {
         "value": "barbeque masala",
         "label": "barbeque masala"
@@ -1102,10 +755,7 @@ export const data= [
         "value": "barley (seeds)",
         "label": "barley (seeds)"
     },
-    {
-        "value": "barley (seeds) sugar smooth paste",
-        "label": "barley (seeds) sugar smooth paste"
-    },
+   
     {
         "value": "barley flour",
         "label": "barley flour"
@@ -1118,14 +768,7 @@ export const data= [
         "value": "barnyard millet (bhagar flour)",
         "label": "barnyard millet (bhagar flour)"
     },
-    {
-        "value": "barnyard millet (you can either bajra foxtail other local millet)",
-        "label": "barnyard millet (you can either bajra foxtail other local millet)"
-    },
-    {
-        "value": "barnyard millet variety",
-        "label": "barnyard millet variety"
-    },
+  
     {
         "value": "basa fish",
         "label": "basa fish"
@@ -1134,22 +777,7 @@ export const data= [
         "value": "basa fish bless skinless",
         "label": "basa fish bless skinless"
     },
-    {
-        "value": "basa fish fillet",
-        "label": "basa fish fillet"
-    },
-    {
-        "value": "basa fish fillets",
-        "label": "basa fish fillets"
-    },
-    {
-        "value": "basa fish finger length",
-        "label": "basa fish finger length"
-    },
-    {
-        "value": "basa fish salmon white firm fleshed fish ( fillet)",
-        "label": "basa fish salmon white firm fleshed fish ( fillet)"
-    },
+   
     {
         "value": "basella (malabar spinach)",
         "label": "basella (malabar spinach)"
@@ -1168,15 +796,7 @@ export const data= [
         "label": "basil leaves chiffonade"
     },
   
-    {
-        "value": "basil leaves ground paste",
-        "label": "basil leaves ground paste"
-    },
-    {
-        "value": "basil leaves kaffir lime leaves",
-        "label": "basil leaves kaffir lime leaves"
-    },
-
+  
 
     {
         "value": "basil pesto",
@@ -1225,19 +845,13 @@ export const data= [
         "value": "bay leaf break",
         "label": "bay leaf break"
     },
-    {
-        "value": "bay leaf break take",
-        "label": "bay leaf break take"
-    },
+  
     {
         "value": "bay leaves",
         "label": "bay leaves"
     },
   
-    {
-        "value": "bc belle bhat powder",
-        "label": "bc belle bhat powder"
-    },
+ 
     {
         "value": "bean paste",
         "label": "bean paste"
@@ -1276,10 +890,7 @@ export const data= [
         "value": "beetroot juiced",
         "label": "beetroot juiced"
     },
-    {
-        "value": "beetroot spiralized noodles",
-        "label": "beetroot spiralized noodles"
-    },
+  
     {
         "value": "beetroots",
         "label": "beetroots"
@@ -1364,15 +975,6 @@ export const data= [
         "label": "black beans"
     },
     {
-        "value": "black beans canned",
-        "label": "black beans canned"
-    },
-   
-    {
-        "value": "black beans sauce",
-        "label": "black beans sauce"
-    },
-    {
         "value": "black cardamom",
         "label": "black cardamom"
     },
@@ -1401,10 +1003,7 @@ export const data= [
         "value": "black gram",
         "label": "black gram"
     },
-    {
-        "value": "black gram soak cook till becomes soft",
-        "label": "black gram soak cook till becomes soft"
-    },
+  
     {
         "value": "black gram sprouted",
         "label": "black gram sprouted"
@@ -1426,34 +1025,12 @@ export const data= [
         "value": "black pepper",
         "label": "black pepper"
     },
-    {
-        "value": "black pepper corns",
-        "label": "black pepper corns"
-    },
-    {
-        "value": "black pepper corns forr",
-        "label": "black pepper corns forr"
-    },
-    {
-        "value": "black pepper corns ground",
-        "label": "black pepper corns ground"
-    },
-    {
-        "value": "black pepper grind",
-        "label": "black pepper grind"
-    },
+   
     {
         "value": "black pepper powder",
         "label": "black pepper powder"
     },
-    {
-        "value": "black pepper powder (or red chilli flakes)",
-        "label": "black pepper powder (or red chilli flakes)"
-    },
-    {
-        "value": "black pepper powder black pepper powder",
-        "label": "black pepper powder black pepper powder"
-    },
+  
   
     {
         "value": "black peppercorns",
@@ -1481,14 +1058,7 @@ export const data= [
         "value": "black salt",
         "label": "black salt"
     },
-    {
-        "value": "black salt salt",
-        "label": "black salt salt"
-    },
-    {
-        "value": "black salt white salt",
-        "label": "black salt white salt"
-    },
+  
     {
         "value": "black sesame seeds",
         "label": "black sesame seeds"
@@ -1590,14 +1160,7 @@ export const data= [
         "label": "boondi masala"
     },
    
-    {
-        "value": "boondi sev",
-        "label": "boondi sev"
-    },
-    {
-        "value": "boondi spicy",
-        "label": "boondi spicy"
-    },
+
     {
         "value": "botis golden finger fryums",
         "label": "botis golden finger fryums"
@@ -1611,10 +1174,7 @@ export const data= [
         "value": "bourbon",
         "label": "bourbon"
     },
-    {
-        "value": "bourbon biscuits (or hide seek biscuits)",
-        "label": "bourbon biscuits (or hide seek biscuits)"
-    },
+ 
    
     {
         "value": "brahmi leaves",
@@ -1640,10 +1200,7 @@ export const data= [
         "value": "bread cubes (croutons)",
         "label": "bread cubes (croutons)"
     },
-    {
-        "value": "bread cubes (croutons) seasd garlic dried rosemary",
-        "label": "bread cubes (croutons) seasd garlic dried rosemary"
-    },
+
     {
         "value": "breads",
         "label": "breads"
@@ -1669,42 +1226,8 @@ export const data= [
         "value": "britannia",
         "label": "britannia"
     },
-    {
-        "value": "britannia cheese asli pepper",
-        "label": "britannia cheese asli pepper"
-    },
-    {
-        "value": "britannia cheese block",
-        "label": "britannia cheese block"
-    },
-    {
-        "value": "britannia cheese classic",
-        "label": "britannia cheese classic"
-    },
-    {
-        "value": "britannia cheese cubes",
-        "label": "britannia cheese cubes"
-    },
-    {
-        "value": "britannia cheese four pepper tango",
-        "label": "britannia cheese four pepper tango"
-    },
-    {
-        "value": "britannia cheese garlic",
-        "label": "britannia cheese garlic"
-    },
-    {
-        "value": "britannia cheese mexican chilli",
-        "label": "britannia cheese mexican chilli"
-    },
-    {
-        "value": "britannia cheese peppy pizza",
-        "label": "britannia cheese peppy pizza"
-    },
-    {
-        "value": "britannia cheese slice",
-        "label": "britannia cheese slice"
-    },
+   
+  
     {
         "value": "britannia cheezza",
         "label": "britannia cheezza"
@@ -1714,31 +1237,7 @@ export const data= [
         "label": "broccoli"
     },
    
-    {
-        "value": "broccoli bite florets",
-        "label": "broccoli bite florets"
-    },
-    {
-        "value": "broccoli cauliflower florets",
-        "label": "broccoli cauliflower florets"
-    },
-    {
-        "value": "broccoli florets",
-        "label": "broccoli florets"
-    },
    
-    {
-        "value": "broccoli smer florets",
-        "label": "broccoli smer florets"
-    },
-    {
-        "value": "broccoli stems",
-        "label": "broccoli stems"
-    },
-    {
-        "value": "broccoli tiny florets",
-        "label": "broccoli tiny florets"
-    },
     {
         "value": "broccolis",
         "label": "broccolis"
@@ -1793,10 +1292,6 @@ export const data= [
         "label": "bulgur wheat"
     },
     {
-        "value": "bulgur wheat organic",
-        "label": "bulgur wheat organic"
-    },
-    {
         "value": "bunch arugula leaves",
         "label": "bunch arugula leaves"
     },
@@ -1828,32 +1323,6 @@ export const data= [
     {
         "value": "butter baste",
         "label": "butter baste"
-    },
-
-    {
-        "value": "butter coconut butter",
-        "label": "butter coconut butter"
-    },
-    {
-        "value": "butter coconut oil",
-        "label": "butter coconut oil"
-    },
-   
-    
-    {
-        "value": "butter ghee",
-        "label": "butter ghee"
-    },
-   
-   
-    {
-        "value": "butter olive oil",
-        "label": "butter olive oil"
-    },
-   
-    {
-        "value": "butter pan",
-        "label": "butter pan"
     },
     {
         "value": "butter pea",
@@ -1904,41 +1373,6 @@ export const data= [
         "label": "button mushrooms"
     },
    
-   
-    {
-        "value": "button mushrooms cremini mushrooms",
-        "label": "button mushrooms cremini mushrooms"
-    },
-    {
-        "value": "button mushrooms destemmed",
-        "label": "button mushrooms destemmed"
-    },
-    {
-        "value": "button mushrooms large",
-        "label": "button mushrooms large"
-    },
- 
-    {
-        "value": "button mushrooms mushroom",
-        "label": "button mushrooms mushroom"
-    },
-    {
-        "value": "button mushrooms portabello mushrooms",
-        "label": "button mushrooms portabello mushrooms"
-    },
-    {
-        "value": "button mushrooms saut\u00e9ed",
-        "label": "button mushrooms saut\u00e9ed"
-    },
-    {
-        "value": "button mushrooms shopped",
-        "label": "button mushrooms shopped"
-    },
-    {
-        "value": "button mushrooms stem",
-        "label": "button mushrooms stem"
-    },
- 
     {
         "value": "byadagi chilli powder",
         "label": "byadagi chilli powder"
@@ -1948,15 +1382,6 @@ export const data= [
         "label": "byadagi dried chillies"
     },
     {
-        "value": "byadagi dried chillies water",
-        "label": "byadagi dried chillies water"
-    },
- 
-    {
-        "value": "c (optional)",
-        "label": "c (optional)"
-    },
-    {
         "value": "cabbage",
         "label": "cabbage"
     },
@@ -1964,15 +1389,7 @@ export const data= [
         "value": "cabbage (patta gobi muttaikose)",
         "label": "cabbage (patta gobi muttaikose)"
     },
-   
-    {
-        "value": "cabbage leaves",
-        "label": "cabbage leaves"
-    },
-    {
-        "value": "cabbage spoon",
-        "label": "cabbage spoon"
-    },
+
     {
         "value": "cajun spice mix",
         "label": "cajun spice mix"
@@ -2643,10 +2060,7 @@ export const data= [
         "value": "chicken stock",
         "label": "chicken stock"
     },
-    {
-        "value": "chicken stock chicken stock cube water",
-        "label": "chicken stock chicken stock cube water"
-    },
+
     {
         "value": "chicken stock vegetable stock water",
         "label": "chicken stock vegetable stock water"
