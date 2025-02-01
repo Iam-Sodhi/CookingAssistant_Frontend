@@ -30,55 +30,70 @@ interface Option {
   value: string;
   label: string;
 }
-interface Dish {
-  "image-url": string;
-  TranslatedRecipeName: string;
-  Matching: string;
-  Missing: string;
-  TotalTimeInMins: number;
+interface Ingredient {
+  Ingredient: string;
+  Quantity: number | string; // Quantity can be a number or a string (e.g., "as required")
+  Unit: string;
+}
+
+interface RecipeData {
+  recipe_name: string;
+  image_url: string;
+  course: string;
+  diet: string;
+  desired_servings: number;
+  default_servings: number;
+  ingredients: Ingredient[]; // Array of ingredients
+  status: string; // Response status
 }
 
 export default function QuantityEstimationPage() {
   // Capture selected options
 
-  const [dishes, setDishes] = useState<Dish[]>([]);
+  const [recipeData, setRecipeData] = useState<RecipeData | null>(null);
   const [loading, setLoading] = useState(false);
   const [selectedDish, setSelectedDish] = useState<Option | null>(null);
-
+  const [servings, setServings] = useState<number | string>("");
   const url = `${process.env.NEXT_PUBLIC_BACKEND_API_URL}`;
-  // Send selected data to Flask API
+
+  // Send data to backend
   const sendDataToBackend = async () => {
+    if (!selectedDish || servings === "") {
+      alert("Please select a dish and enter the desired servings.");
+      return;
+    }
 
-    // if (!selectedIngredients.length) {
-    //   alert("Please select at least one ingredient!");
-    //   return;
-    // }
-    // try {
-    //   setLoading(true);
-    //   const ingredients = selectedIngredients
-    //     .map((item) => item.label)
-    //     .join(",");
-    //   console.log(url);
-    //   const response = await axios.post(`${url}/recommend`, {
-    //     ingredients, // Pass ingredients as a comma-separated string
-    //     top_n: 12, // Limit results to top 12
-    //   });
+    try {
+      setLoading(true);
+      const response = await axios.post(
+        `${process.env.NEXT_PUBLIC_BACKEND_API_URL}/quantity_estimation`,
+        {
+          recipe_name: selectedDish.value,
+          desired_servings: servings,
+        }
+      );
 
-    //   console.log("Response from backend:", response.data);
-    //   setDishes(response.data.results);
-    //   // // Clear selection after successful submission
-    //   // setSelectedIngredients([]);
-    // } catch (error) {
-    //   console.error("Error sending data to backend:", error);
-    // } finally {
-    //   setLoading(false); // Stop loading animation
-    // }
+      console.log("Response from backend:", response.data);
+      if (response.data.status === 'success') {
+        setRecipeData(response.data);  // Store response data
+      } else {
+        console.error("Error:", response.data.message);
+      }
+    } catch (error) {
+      console.error("Error sending data to backend:", error);
+    } finally {
+      setLoading(false); // Stop loading animation
+    }
   };
 
   // Handle selection
   const handleSelectChange = (selectedOption: SingleValue<Option>) => {
     setSelectedDish(selectedOption);
     // onChange(selectedOption ? selectedOption.value : "");
+  };
+  // Handle servings input
+  const handleServingsChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setServings(event.target.value);
   };
 
   // Filter options for search
@@ -125,12 +140,12 @@ export default function QuantityEstimationPage() {
         </div>
 
         <div className="flex flex-col sm:flex-row sm:items-center  w-[90%] sm:w-[85%] sm:space-x-2 space-y-2 sm:space-y-0">
-          <div className="sm:w-[95%]  ">
+          <div className="sm:w-[60%] md:w-[70%] ">
             <AsyncSelect
               cacheOptions
               loadOptions={loadOptions}
               defaultOptions={options.slice(0, 50)} // Show first 50 items initially
-              placeholder="Search & select a dish..."
+              placeholder="Search a dish..."
               onChange={handleSelectChange}
               value={selectedDish}
               classNames={{
@@ -143,6 +158,16 @@ export default function QuantityEstimationPage() {
                     ? "bg-gray-100 p-2 cursor-pointer"
                     : "p-2 cursor-pointer",
               }}
+            />
+          </div>
+          {/* Desired Servings Input */}
+          <div className="sm:w-[60%] w-full ">
+            <input
+              type="number"
+              value={servings}
+              onChange={handleServingsChange}
+              placeholder="Enter desired servings"
+              className="bg-white border border-gray-300 rounded-md px-2 py-4 w-full h-full"
             />
           </div>
           <Button
@@ -160,52 +185,62 @@ export default function QuantityEstimationPage() {
         </div>
 
         <div className="w-[90%] sm:w-[85%] overflow-hidden">
-          {!loading && (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
-              {dishes.map((dish, index) => (
-                <Card
-                  key={index}
-                  className="bg-active/20 shadow-md rounded-lg px-2 pt-4 hover:shadow-lg transition-shadow"
-                >
-                  {/* First Row: Image and Title */}
-                  <div className="flex items-center space-x-4">
-                    {/* Image */}
-                    <div className="w-24 h-16 overflow-hidden rounded-full shadow-sm">
-                      <Image
-                        src={dish["image-url"]}
-                        alt={dish.TranslatedRecipeName}
-                        className="w-full h-full  rounded-full object-fill" // Ensures the image fully covers the container
-                        height={100}
-                        width={100}
-                      />
-                    </div>
-                    {/* Title and Time */}
-                    <div>
-                      <CardTitle className="text-md font-semibold">
-                        {dish.TranslatedRecipeName}
-                      </CardTitle>
-                      <CardDescription className="text-sm text-gray-600">
-                        Time: {dish.TotalTimeInMins} mins
-                      </CardDescription>
-                    </div>
+          {!loading && recipeData && (
+            <div className="space-y-8 p-4">
+              {/* First Row: Recipe Details */}
+              <div className="bg-active/20 shadow-md rounded-lg p-6 flex flex-col items-center sm:flex-row sm:items-start space-y-4 sm:space-y-0 sm:space-x-8">
+                {/* Recipe Image */}
+                <div className="w-20 h-20 sm:w-28 sm:h-28 overflow-hidden rounded-full shadow-sm">
+                  <Image
+                    src={recipeData.image_url}
+                    alt={recipeData.recipe_name}
+                    className="w-full h-full rounded-full object-cover"
+                    height={160}
+                    width={160}
+                  />
+                </div>
+
+                {/* Recipe Name and General Information */}
+                <div className="flex flex-col items-center sm:items-start space-y-1">
+                  <h2 className="text-xl  sm:text-2xl font-semibold text-center sm:text-left">
+                    {recipeData.recipe_name}
+                  </h2>
+                  <p className="text-md sm:text-lg text-center sm:text-left">
+                    {recipeData.course} | {recipeData.diet}
+                  </p>
+                  <div className="flex flex-col sm:flex-row space-x-3 items-center justify-center"> 
+                  <p className="text-sm text-gray-600">
+                    Default Servings: {recipeData.default_servings}
+                  </p>
+                  <p className="text-sm text-gray-600">
+                    Desired Servings: {recipeData.desired_servings}
+                  </p>
                   </div>
+                </div>
+              </div>
 
-                  {/* Divider */}
-                  <hr className="my-2 border-gray-300 " />
+              {/* Divider */}
+              <hr className="my-4 border-gray-300" />
 
-                  {/* Subsequent Rows: Additional Information */}
-                  <CardContent className="space-y-2">
-                    <CardDescription className="text-gray-700">
-                      <strong>Matching Ingredients:</strong> {dish.Matching}
-                    </CardDescription>
-                    <CardDescription className="text-gray-700">
-                      <strong>Missing Ingredients:</strong> {dish.Missing}
-                    </CardDescription>
-                  </CardContent>
-                </Card>
-              ))}
+              {/* Subsequent Rows: Ingredients List */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                {recipeData.ingredients.map((ingredient, index) => (
+                  <div
+                    key={index}
+                    className="bg-white shadow-md rounded-lg p-4 hover:shadow-lg transition-shadow"
+                  >
+                    <h3 className="text-xl font-semibold">
+                      {ingredient.Ingredient}
+                    </h3>
+                    <p className="text-sm text-gray-600">
+                      Quantity: {ingredient.Quantity} {ingredient.Unit}
+                    </p>
+                  </div>
+                ))}
+              </div>
             </div>
           )}
+
           {loading && (
             <div className="flex items-center justify-center overflow-hidden">
               <Image

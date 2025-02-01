@@ -53,7 +53,7 @@ export default function RecipesPredictionPage() {
       const ingredients = selectedIngredients
         .map((item) => item.label)
         .join(",");
-      console.log(url);
+      // console.log(url);
       const response = await axios.post(`${url}/recommend`, {
         ingredients, // Pass ingredients as a comma-separated string
         top_n: 12, // Limit results to top 12
