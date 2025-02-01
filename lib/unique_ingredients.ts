@@ -1945,11 +1945,7 @@ export const data= [
         "value": "chicken bless",
         "label": "chicken bless"
     },
-  
-    {
-        "value": "chicken boiled bless",
-        "label": "chicken boiled bless"
-    },
+
     {
         "value": "chicken breast",
         "label": "chicken breast"
@@ -2153,14 +2149,7 @@ export const data= [
         "value": "chilli oil",
         "label": "chilli oil"
     },
-    {
-        "value": "chilli oil (can be substituted smoked paprika)",
-        "label": "chilli oil (can be substituted smoked paprika)"
-    },
-    {
-        "value": "chilli oil sesame oil",
-        "label": "chilli oil sesame oil"
-    },
+
     {
         "value": "chilli vinegar",
         "label": "chilli vinegar"
@@ -2759,58 +2748,7 @@ export const data= [
         "value": "coconut oil",
         "label": "coconut oil"
     },
-    {
-        "value": "coconut oil almond oil",
-        "label": "coconut oil almond oil"
-    },
-    {
-        "value": "coconut oil butter",
-        "label": "coconut oil butter"
-    },
-    {
-        "value": "coconut oil coconut oil tbsp",
-        "label": "coconut oil coconut oil tbsp"
-    },
-    {
-        "value": "coconut oil cold pressed",
-        "label": "coconut oil cold pressed"
-    },
-    {
-        "value": "coconut oil enough",
-        "label": "coconut oil enough"
-    },
-    {
-        "value": "coconut oil other oil",
-        "label": "coconut oil other oil"
-    },
-    {
-        "value": "coconut oil refined oil",
-        "label": "coconut oil refined oil"
-    },
-    {
-        "value": "coconut oil regular oil",
-        "label": "coconut oil regular oil"
-    },
-    {
-        "value": "coconut oil sunflower oil",
-        "label": "coconut oil sunflower oil"
-    },
-    {
-        "value": "coconut oil vegetable oil",
-        "label": "coconut oil vegetable oil"
-    },
-    {
-        "value": "coconut oil virgin",
-        "label": "coconut oil virgin"
-    },
-    {
-        "value": "coconut oil virgin (cold pressed)",
-        "label": "coconut oil virgin (cold pressed)"
-    },
-    {
-        "value": "coconut oil virgin oil",
-        "label": "coconut oil virgin oil"
-    },
+
     {
         "value": "coconut outer cover",
         "label": "coconut outer cover"
@@ -4846,18 +4784,7 @@ export const data= [
         "value": "figaro pure olive oil",
         "label": "figaro pure olive oil"
     },
-    {
-        "value": "figaro pure olive oil ghee",
-        "label": "figaro pure olive oil ghee"
-    },
-    {
-        "value": "figaro pure olive oil pan",
-        "label": "figaro pure olive oil pan"
-    },
-    {
-        "value": "figaro pure olive oil plus",
-        "label": "figaro pure olive oil plus"
-    },
+
     {
         "value": "figs",
         "label": "figs"
@@ -5018,10 +4945,7 @@ export const data= [
         "value": "flour (maida) flour",
         "label": "flour (maida) flour"
     },
-    {
-        "value": "flour (maida) ghee refined oil baking soda tea spoon cloves",
-        "label": "flour (maida) ghee refined oil baking soda tea spoon cloves"
-    },
+
     {
         "value": "flour (maida) gluten free flour",
         "label": "flour (maida) gluten free flour"
@@ -5342,242 +5266,16 @@ export const data= [
         "value": "ghee",
         "label": "ghee"
     },
-    {
-        "value": "ghee (or ghee",
-        "label": "ghee (or ghee"
-    },
-    {
-        "value": "ghee (or sesame oil)",
-        "label": "ghee (or sesame oil)"
-    },
-    {
-        "value": "ghee be ed after khichdi",
-        "label": "ghee be ed after khichdi"
-    },
-    {
-        "value": "ghee bfor",
-        "label": "ghee bfor"
-    },
-    {
-        "value": "ghee bind",
-        "label": "ghee bind"
-    },
-    {
-        "value": "ghee butter",
-        "label": "ghee butter"
-    },
-    {
-        "value": "ghee butter coat the pan ( you can an oil spray)",
-        "label": "ghee butter coat the pan ( you can an oil spray)"
-    },
-    {
-        "value": "ghee butter greasing",
-        "label": "ghee butter greasing"
-    },
-    {
-        "value": "ghee coconut oil",
-        "label": "ghee coconut oil"
-    },
-    {
-        "value": "ghee coriander",
-        "label": "ghee coriander"
-    },
-    {
-        "value": "ghee dough",
-        "label": "ghee dough"
-    },
-    {
-        "value": "ghee flavour",
-        "label": "ghee flavour"
-    },
-    {
-        "value": "ghee ghee",
-        "label": "ghee ghee"
-    },
-    {
-        "value": "ghee ghee the thalipeeth (~ )",
-        "label": "ghee ghee the thalipeeth (~ )"
-    },
-    {
-        "value": "ghee gravy",
-        "label": "ghee gravy"
-    },
-    {
-        "value": "ghee grease",
-        "label": "ghee grease"
-    },
-    {
-        "value": "ghee grease idli moulds",
-        "label": "ghee grease idli moulds"
-    },
-    {
-        "value": "ghee grease palms when rolling ladoos",
-        "label": "ghee grease palms when rolling ladoos"
-    },
-    {
-        "value": "ghee grease the pan",
-        "label": "ghee grease the pan"
-    },
-    {
-        "value": "ghee grease the plate",
-        "label": "ghee grease the plate"
-    },
-    {
-        "value": "ghee greasing",
-        "label": "ghee greasing"
-    },
-    {
-        "value": "ghee greasing the idli pan",
-        "label": "ghee greasing the idli pan"
-    },
-    {
-        "value": "ghee greasing the plate",
-        "label": "ghee greasing the plate"
-    },
-    {
-        "value": "ghee heated",
-        "label": "ghee heated"
-    },
-    {
-        "value": "ghee layer parathas",
-        "label": "ghee layer parathas"
-    },
-    {
-        "value": "ghee layering",
-        "label": "ghee layering"
-    },
-    {
-        "value": "ghee make",
-        "label": "ghee make"
-    },
-    {
-        "value": "ghee make dosas",
-        "label": "ghee make dosas"
-    },
-    {
-        "value": "ghee make the pesarattu",
-        "label": "ghee make the pesarattu"
-    },
-    {
-        "value": "ghee making",
-        "label": "ghee making"
-    },
-    {
-        "value": "ghee making dough",
-        "label": "ghee making dough"
-    },
-    {
-        "value": "ghee on naan",
-        "label": "ghee on naan"
-    },
-    {
-        "value": "ghee on parathas",
-        "label": "ghee on parathas"
-    },
-    {
-        "value": "ghee on thalipeeth",
-        "label": "ghee on thalipeeth"
-    },
-    {
-        "value": "ghee pan",
-        "label": "ghee pan"
-    },
-    {
-        "value": "ghee paratha",
-        "label": "ghee paratha"
-    },
-    {
-        "value": "ghee parathas",
-        "label": "ghee parathas"
-    },
-    {
-        "value": "ghee plus",
-        "label": "ghee plus"
-    },
-    {
-        "value": "ghee refined sunflower oil roast the crepes",
-        "label": "ghee refined sunflower oil roast the crepes"
-    },
-    {
-        "value": "ghee roast",
-        "label": "ghee roast"
-    },
-    {
-        "value": "ghee roasting",
-        "label": "ghee roasting"
-    },
-    {
-        "value": "ghee roasting kokhi",
-        "label": "ghee roasting kokhi"
-    },
-    {
-        "value": "ghee roasting the gulachi poli",
-        "label": "ghee roasting the gulachi poli"
-    },
-    {
-        "value": "ghee roasting the rava",
-        "label": "ghee roasting the rava"
-    },
+   
+  
+ 
+  
+  
     {
         "value": "ghee rotis",
         "label": "ghee rotis"
     },
-    {
-        "value": "ghee sesame oil",
-        "label": "ghee sesame oil"
-    },
-    {
-        "value": "ghee stir",
-        "label": "ghee stir"
-    },
-    {
-        "value": "ghee tadka",
-        "label": "ghee tadka"
-    },
-    {
-        "value": "ghee the dodas",
-        "label": "ghee the dodas"
-    },
-    {
-        "value": "ghee the kulchas",
-        "label": "ghee the kulchas"
-    },
-    {
-        "value": "ghee the malpua",
-        "label": "ghee the malpua"
-    },
-    {
-        "value": "ghee the mughlai gravy",
-        "label": "ghee the mughlai gravy"
-    },
-    {
-        "value": "ghee the pancakes",
-        "label": "ghee the pancakes"
-    },
-    {
-        "value": "ghee the parathas",
-        "label": "ghee the parathas"
-    },
-    {
-        "value": "ghee the uttapam",
-        "label": "ghee the uttapam"
-    },
-    {
-        "value": "ghee til oil",
-        "label": "ghee til oil"
-    },
-    {
-        "value": "ghee toasting",
-        "label": "ghee toasting"
-    },
-    {
-        "value": "ghee vegetable oil",
-        "label": "ghee vegetable oil"
-    },
-    {
-        "value": "ghee virgin coconut oil",
-        "label": "ghee virgin coconut oil"
-    },
+   
     {
         "value": "gheeand",
         "label": "gheeand"
@@ -5602,14 +5300,7 @@ export const data= [
         "value": "gingelly oil",
         "label": "gingelly oil"
     },
-    {
-        "value": "gingelly oil sunflower oil",
-        "label": "gingelly oil sunflower oil"
-    },
-    {
-        "value": "gingelly oil tadka",
-        "label": "gingelly oil tadka"
-    },
+  
     {
         "value": "ginger",
         "label": "ginger"
@@ -5978,10 +5669,7 @@ export const data= [
         "value": "gram dal (pottukadalai)",
         "label": "gram dal (pottukadalai)"
     },
-    {
-        "value": "gram dal (pottukadalai) bit oil",
-        "label": "gram dal (pottukadalai) bit oil"
-    },
+
     {
         "value": "gram dark chocolate",
         "label": "gram dark chocolate"
@@ -9175,70 +8863,17 @@ export const data= [
         "label": "milk (full fat)"
     },
 
-    {
-        "value": "milk almond milk",
-        "label": "milk almond milk"
-    },
-
-    {
-        "value": "milk chocolate",
-        "label": "milk chocolate"
-    },
-    {
-        "value": "milk coconut milk",
-        "label": "milk coconut milk"
-    },
-
-    {
-        "value": "milk mix cornflour",
-        "label": "milk mix cornflour"
-    },
-    {
-        "value": "milk mixed cornflour",
-        "label": "milk mixed cornflour"
-    },
-
+   
     {
         "value": "milk powder",
         "label": "milk powder"
     },
-    {
-        "value": "milk powder (milk solids)",
-        "label": "milk powder (milk solids)"
-    },
-    {
-        "value": "milk rd milk",
-        "label": "milk rd milk"
-    },
-    {
-        "value": "milk skim milk",
-        "label": "milk skim milk"
-    },
-    {
-        "value": "milk skimmed",
-        "label": "milk skimmed"
-    },
-
-    {
-        "value": "milk soaking saffron",
-        "label": "milk soaking saffron"
-    },
-    {
-        "value": "milk unskimmed",
-        "label": "milk unskimmed"
-    },
+    
     {
         "value": "milk water",
         "label": "milk water"
     },
-    {
-        "value": "milk water knead (if needed)",
-        "label": "milk water knead (if needed)"
-    },
-    {
-        "value": "milkmilk",
-        "label": "milkmilk"
-    },
+   
     {
         "value": "millet flour",
         "label": "millet flour"
@@ -9247,14 +8882,7 @@ export const data= [
         "value": "mini pita breads",
         "label": "mini pita breads"
     },
-    {
-        "value": "mini pita breads circles from the center",
-        "label": "mini pita breads circles from the center"
-    },
-    {
-        "value": "mini pita breads tortilla instead pita bread)",
-        "label": "mini pita breads tortilla instead pita bread)"
-    },
+  
     {
         "value": "mint",
         "label": "mint"
@@ -9271,15 +8899,9 @@ export const data= [
         "value": "mint leaves (pudina) (dried)",
         "label": "mint leaves (pudina) (dried)"
     },
-    {
-        "value": "mint leaves (pudina) (you can also basilcoriander)",
-        "label": "mint leaves (pudina) (you can also basilcoriander)"
-    },
+  
 
-    {
-        "value": "mint leaves (pudina) coriander leaves",
-        "label": "mint leaves (pudina) coriander leaves"
-    },
+   
     {
         "value": "mint leaves (pudina) dried",
         "label": "mint leaves (pudina) dried"
@@ -9288,27 +8910,7 @@ export const data= [
         "value": "mint leaves (pudina) dried pudina",
         "label": "mint leaves (pudina) dried pudina"
     },
-    {
-        "value": "mint leaves (pudina) dry",
-        "label": "mint leaves (pudina) dry"
-    },
-    {
-        "value": "mint leaves (pudina) fistful",
-        "label": "mint leaves (pudina) fistful"
-    },
-    {
-        "value": "mint leaves (pudina) ganish",
-        "label": "mint leaves (pudina) ganish"
-    },
-    {
-        "value": "mint leaves (pudina) ground paste",
-        "label": "mint leaves (pudina) ground paste"
-    },
-
-    {
-        "value": "mint leaves (pudina) paste",
-        "label": "mint leaves (pudina) paste"
-    },
+  
 
     {
         "value": "mint leaves (pudina) salt",
@@ -9326,10 +8928,7 @@ export const data= [
         "value": "mint powder (pudina)",
         "label": "mint powder (pudina)"
     },
-    {
-        "value": "mint powder (pudina) mint leaves",
-        "label": "mint powder (pudina) mint leaves"
-    },
+  
     {
         "value": "mint rice",
         "label": "mint rice"
@@ -9354,34 +8953,8 @@ export const data= [
         "value": "mixed dry fruits",
         "label": "mixed dry fruits"
     },
-    {
-        "value": "mixed dry fruits (almonds cashew nuts pistachios)",
-        "label": "mixed dry fruits (almonds cashew nuts pistachios)"
-    },
-    {
-        "value": "mixed dry fruits (golden raisins",
-        "label": "mixed dry fruits (golden raisins"
-    },
-    {
-        "value": "mixed dry fruits (like almonds",
-        "label": "mixed dry fruits (like almonds"
-    },
-    {
-        "value": "mixed dry fruits almonds cashews)",
-        "label": "mixed dry fruits almonds cashews)"
-    },
-    {
-        "value": "mixed dry fruits per preference",
-        "label": "mixed dry fruits per preference"
-    },
-    {
-        "value": "mixed dry fruits used apricot",
-        "label": "mixed dry fruits used apricot"
-    },
-    {
-        "value": "mixed dry fruits used raisins cashews",
-        "label": "mixed dry fruits used raisins cashews"
-    },
+   
+  
     {
         "value": "mixed fruits",
         "label": "mixed fruits"
@@ -9399,34 +8972,7 @@ export const data= [
         "value": "mixed herbs",
         "label": "mixed herbs"
     },
-    {
-        "value": "mixed herbs (dried)",
-        "label": "mixed herbs (dried)"
-    },
-    {
-        "value": "mixed herbs (dried) (basil",
-        "label": "mixed herbs (dried) (basil"
-    },
-    {
-        "value": "mixed herbs (dried) (oregano",
-        "label": "mixed herbs (dried) (oregano"
-    },
-    {
-        "value": "mixed herbs (dried) dry",
-        "label": "mixed herbs (dried) dry"
-    },
-    {
-        "value": "mixed herbs (dried) italian",
-        "label": "mixed herbs (dried) italian"
-    },
-    {
-        "value": "mixed herbs (dried) like rosemary coriander",
-        "label": "mixed herbs (dried) like rosemary coriander"
-    },
-    {
-        "value": "mixed herbs (dried) rosemary",
-        "label": "mixed herbs (dried) rosemary"
-    },
+   
     {
         "value": "mixed lentils",
         "label": "mixed lentils"
@@ -9435,34 +8981,13 @@ export const data= [
         "value": "mixed millets",
         "label": "mixed millets"
     },
-    {
-        "value": "mixed millets (mix foxtail kodo millet equal parts",
-        "label": "mixed millets (mix foxtail kodo millet equal parts"
-    },
+   
     {
         "value": "mixed nuts",
         "label": "mixed nuts"
     },
-    {
-        "value": "mixed nuts (almond",
-        "label": "mixed nuts (almond"
-    },
-    {
-        "value": "mixed nuts (almond pistachios)",
-        "label": "mixed nuts (almond pistachios)"
-    },
-    {
-        "value": "mixed nuts (almonds",
-        "label": "mixed nuts (almonds"
-    },
-    {
-        "value": "mixed nuts (almonds cashewnuts)",
-        "label": "mixed nuts (almonds cashewnuts)"
-    },
-    {
-        "value": "mixed nuts (almonds pistachios)",
-        "label": "mixed nuts (almonds pistachios)"
-    },
+
+   
     {
         "value": "mixed nuts (raisins",
         "label": "mixed nuts (raisins"
@@ -9475,14 +9000,7 @@ export const data= [
         "value": "mixed nuts almonds",
         "label": "mixed nuts almonds"
     },
-    {
-        "value": "mixed nuts almonds pistachios)",
-        "label": "mixed nuts almonds pistachios)"
-    },
-    {
-        "value": "mixed nuts almondscashews",
-        "label": "mixed nuts almondscashews"
-    },
+  
     {
         "value": "mixed nuts dry",
         "label": "mixed nuts dry"
@@ -9490,30 +9008,6 @@ export const data= [
     {
         "value": "mixed nuts fruit",
         "label": "mixed nuts fruit"
-    },
-    {
-        "value": "mixed nuts like cashew almonds",
-        "label": "mixed nuts like cashew almonds"
-    },
-    {
-        "value": "mixed nuts like flaked almonds pistachios",
-        "label": "mixed nuts like flaked almonds pistachios"
-    },
-    {
-        "value": "mixed nuts pistachio almonds",
-        "label": "mixed nuts pistachio almonds"
-    },
-    {
-        "value": "mixed nuts topping",
-        "label": "mixed nuts topping"
-    },
-    {
-        "value": "mixed nuts used almond",
-        "label": "mixed nuts used almond"
-    },
-    {
-        "value": "mixed nutsfor",
-        "label": "mixed nutsfor"
     },
     {
         "value": "mixed spices bay leaves",
@@ -9531,106 +9025,7 @@ export const data= [
         "value": "mixed vegetables",
         "label": "mixed vegetables"
     },
-    {
-        "value": "mixed vegetables (beans",
-        "label": "mixed vegetables (beans"
-    },
-    {
-        "value": "mixed vegetables (broccoli",
-        "label": "mixed vegetables (broccoli"
-    },
-    {
-        "value": "mixed vegetables (carrot",
-        "label": "mixed vegetables (carrot"
-    },
-    {
-        "value": "mixed vegetables (cauliflower",
-        "label": "mixed vegetables (cauliflower"
-    },
-    {
-        "value": "mixed vegetables (corn",
-        "label": "mixed vegetables (corn"
-    },
-    {
-        "value": "mixed vegetables (french beans",
-        "label": "mixed vegetables (french beans"
-    },
-    {
-        "value": "mixed vegetables (green bell pepper red bell pepper are used here)",
-        "label": "mixed vegetables (green bell pepper red bell pepper are used here)"
-    },
-    {
-        "value": "mixed vegetables (green peas",
-        "label": "mixed vegetables (green peas"
-    },
-    {
-        "value": "mixed vegetables (peas",
-        "label": "mixed vegetables (peas"
-    },
-    {
-        "value": "mixed vegetables (pepper",
-        "label": "mixed vegetables (pepper"
-    },
-    {
-        "value": "mixed vegetables (potato",
-        "label": "mixed vegetables (potato"
-    },
-    {
-        "value": "mixed vegetables (potatoes",
-        "label": "mixed vegetables (potatoes"
-    },
-    {
-        "value": "mixed vegetables (you can peas",
-        "label": "mixed vegetables (you can peas"
-    },
-    {
-        "value": "mixed vegetables broccoli florets",
-        "label": "mixed vegetables broccoli florets"
-    },
-    {
-        "value": "mixed vegetables cabbage onion) drenched vinegar",
-        "label": "mixed vegetables cabbage onion) drenched vinegar"
-    },
-    {
-        "value": "mixed vegetables carrot",
-        "label": "mixed vegetables carrot"
-    },
-    {
-        "value": "mixed vegetables choice",
-        "label": "mixed vegetables choice"
-    },
-    {
-        "value": "mixed vegetables french beans",
-        "label": "mixed vegetables french beans"
-    },
-    {
-        "value": "mixed vegetables have used radish turnips",
-        "label": "mixed vegetables have used radish turnips"
-    },
-    {
-        "value": "mixed vegetables like broccoli",
-        "label": "mixed vegetables like broccoli"
-    },
-    {
-        "value": "mixed vegetables like onion",
-        "label": "mixed vegetables like onion"
-    },
-    {
-        "value": "mixed vegetables mix potato",
-        "label": "mixed vegetables mix potato"
-    },
-    {
-        "value": "mixed vegetables potato",
-        "label": "mixed vegetables potato"
-    },
-    {
-        "value": "mixed vegetables(have used cabbage",
-        "label": "mixed vegetables(have used cabbage"
-    },
-    {
-        "value": "mixed vegetablesveggsies (coloured capsicums",
-        "label": "mixed vegetablesveggsies (coloured capsicums"
-    },
+   
     {
         "value": "mm\u2019chocolate candies",
         "label": "mm\u2019chocolate candies"
@@ -9639,10 +9034,7 @@ export const data= [
         "value": "molasses",
         "label": "molasses"
     },
-    {
-        "value": "molasses dark corn syrup jaggery",
-        "label": "molasses dark corn syrup jaggery"
-    },
+ 
     {
         "value": "mole sauce",
         "label": "mole sauce"
@@ -9655,50 +9047,12 @@ export const data= [
         "value": "mooli ke patte (radish greens)",
         "label": "mooli ke patte (radish greens)"
     },
-    {
-        "value": "mooli ke patte (radish greens) (with stem)",
-        "label": "mooli ke patte (radish greens) (with stem)"
-    },
-    {
-        "value": "mooli ke patte (radish greens) bunch",
-        "label": "mooli ke patte (radish greens) bunch"
-    },
+  
     {
         "value": "mooli mullangi (radish)",
         "label": "mooli mullangi (radish)"
     },
-    {
-        "value": "mooli mullangi (radish) (mm )",
-        "label": "mooli mullangi (radish) (mm )"
-    },
-    {
-        "value": "mooli mullangi (radish) a",
-        "label": "mooli mullangi (radish) a"
-    },
-    {
-        "value": "mooli mullangi (radish) a the greens",
-        "label": "mooli mullangi (radish) a the greens"
-    },
-    {
-        "value": "mooli mullangi (radish) dices",
-        "label": "mooli mullangi (radish) dices"
-    },
-    {
-        "value": "mooli mullangi (radish) including greens",
-        "label": "mooli mullangi (radish) including greens"
-    },
-    {
-        "value": "mooli mullangi (radish) purple",
-        "label": "mooli mullangi (radish) purple"
-    },
-    {
-        "value": "mooli mullangi (radish) skin",
-        "label": "mooli mullangi (radish) skin"
-    },
-    {
-        "value": "mooli mullangi (radish) tiny",
-        "label": "mooli mullangi (radish) tiny"
-    },
+    
     {
         "value": "mor milagai (dried green chillies)",
         "label": "mor milagai (dried green chillies)"
@@ -9711,14 +9065,7 @@ export const data= [
         "value": "moth dal (matki)",
         "label": "moth dal (matki)"
     },
-    {
-        "value": "moth dal (matki) spouted",
-        "label": "moth dal (matki) spouted"
-    },
-    {
-        "value": "moth dal (matki) sprouted",
-        "label": "moth dal (matki) sprouted"
-    },
+   
     {
         "value": "moth sprouts (matki)",
         "label": "moth sprouts (matki)"
@@ -9735,30 +9082,7 @@ export const data= [
         "value": "mozzarella cheese (partskimmed)",
         "label": "mozzarella cheese (partskimmed)"
     },
-    {
-        "value": "mozzarella cheese cheddar",
-        "label": "mozzarella cheese cheddar"
-    },
-    {
-        "value": "mozzarella cheese cheddar cheese",
-        "label": "mozzarella cheese cheddar cheese"
-    },
-    {
-        "value": "mozzarella cheese cheese",
-        "label": "mozzarella cheese cheese"
-    },
-    {
-        "value": "mozzarella cheese cubes",
-        "label": "mozzarella cheese cubes"
-    },
-    {
-        "value": "mozzarella cheese goat cheese toppings",
-        "label": "mozzarella cheese goat cheese toppings"
-    },
-    {
-        "value": "mozzarella cheese topping",
-        "label": "mozzarella cheese topping"
-    },
+  
     {
         "value": "muesli",
         "label": "muesli"
@@ -9782,14 +9106,6 @@ export const data= [
     {
         "value": "multigrain digestive biscuits",
         "label": "multigrain digestive biscuits"
-    },
-    {
-        "value": "multigrain digestive oat biscuits",
-        "label": "multigrain digestive oat biscuits"
-    },
-    {
-        "value": "multigrain digestive ragi biscuits",
-        "label": "multigrain digestive ragi biscuits"
     },
     {
         "value": "multigrain flour",
@@ -9831,78 +9147,12 @@ export const data= [
         "value": "mustard oil",
         "label": "mustard oil"
     },
-    {
-        "value": "mustard oil fr",
-        "label": "mustard oil fr"
-    },
-    {
-        "value": "mustard oil gravy",
-        "label": "mustard oil gravy"
-    },
-    {
-        "value": "mustard oil grease",
-        "label": "mustard oil grease"
-    },
-    {
-        "value": "mustard oil oil",
-        "label": "mustard oil oil"
-    },
-    {
-        "value": "mustard oil other oil",
-        "label": "mustard oil other oil"
-    },
-    {
-        "value": "mustard oil potato",
-        "label": "mustard oil potato"
-    },
-    {
-        "value": "mustard oil refined oil",
-        "label": "mustard oil refined oil"
-    },
-    {
-        "value": "mustard oil sesame oil",
-        "label": "mustard oil sesame oil"
-    },
-    {
-        "value": "mustard oil some before",
-        "label": "mustard oil some before"
-    },
-    {
-        "value": "mustard oil sunflower oil",
-        "label": "mustard oil sunflower oil"
-    },
-    {
-        "value": "mustard oil tadka",
-        "label": "mustard oil tadka"
-    },
-    {
-        "value": "mustard oil the fish the curry",
-        "label": "mustard oil the fish the curry"
-    },
-    {
-        "value": "mustard oil vegetable oil",
-        "label": "mustard oil vegetable oil"
-    },
-    {
-        "value": "mustard oil you can oil",
-        "label": "mustard oil you can oil"
-    },
+   
     {
         "value": "mustard powder",
         "label": "mustard powder"
     },
-    {
-        "value": "mustard powder (yellow)",
-        "label": "mustard powder (yellow)"
-    },
-    {
-        "value": "mustard powder ground",
-        "label": "mustard powder ground"
-    },
-    {
-        "value": "mustard powder paste",
-        "label": "mustard powder paste"
-    },
+   
     {
         "value": "mustard sauce",
         "label": "mustard sauce"
@@ -9915,122 +9165,12 @@ export const data= [
         "value": "mustard seeds",
         "label": "mustard seeds"
     },
-    {
-        "value": "mustard seeds (black yellow",
-        "label": "mustard seeds (black yellow"
-    },
-    {
-        "value": "mustard seeds (kuria)",
-        "label": "mustard seeds (kuria)"
-    },
-    {
-        "value": "mustard seeds (or kuriyasplit)",
-        "label": "mustard seeds (or kuriyasplit)"
-    },
-    {
-        "value": "mustard seeds ground paste",
-        "label": "mustard seeds ground paste"
-    },
-    {
-        "value": "mustard seeds ground powder",
-        "label": "mustard seeds ground powder"
-    },
-    {
-        "value": "mustard seeds ground using mortar pestle spice grinder",
-        "label": "mustard seeds ground using mortar pestle spice grinder"
-    },
-    {
-        "value": "mustard seeds paste",
-        "label": "mustard seeds paste"
-    },
-    {
-        "value": "mustard seeds powder using mortar pestle",
-        "label": "mustard seeds powder using mortar pestle"
-    },
-    {
-        "value": "mustard seeds split",
-        "label": "mustard seeds split"
-    },
-    {
-        "value": "mustard seeds split (rai na kuria)",
-        "label": "mustard seeds split (rai na kuria)"
-    },
-    {
-        "value": "mustard seeds white",
-        "label": "mustard seeds white"
-    },
+   
     {
         "value": "mutton",
         "label": "mutton"
     },
-    {
-        "value": "mutton (s flavour)",
-        "label": "mutton (s flavour)"
-    },
-    {
-        "value": "mutton bd",
-        "label": "mutton bd"
-    },
-    {
-        "value": "mutton bless",
-        "label": "mutton bless"
-    },
-    {
-        "value": "mutton bs",
-        "label": "mutton bs"
-    },
-    {
-        "value": "mutton chops",
-        "label": "mutton chops"
-    },
-    {
-        "value": "mutton curry",
-        "label": "mutton curry"
-    },
-    {
-        "value": "mutton goat meat",
-        "label": "mutton goat meat"
-    },
-    {
-        "value": "mutton kaleji liver",
-        "label": "mutton kaleji liver"
-    },
-    {
-        "value": "mutton keema",
-        "label": "mutton keema"
-    },
-    {
-        "value": "mutton kheema",
-        "label": "mutton kheema"
-    },
-    {
-        "value": "mutton legs",
-        "label": "mutton legs"
-    },
-    {
-        "value": "mutton liver",
-        "label": "mutton liver"
-    },
-    {
-        "value": "mutton on the",
-        "label": "mutton on the"
-    },
-    {
-        "value": "mutton piece",
-        "label": "mutton piece"
-    },
-    {
-        "value": "mutton rang",
-        "label": "mutton rang"
-    },
-    {
-        "value": "mutton ribs",
-        "label": "mutton ribs"
-    },
-    {
-        "value": "mutton shanks)",
-        "label": "mutton shanks)"
-    },
+   
     {
         "value": "naan tawa parathas",
         "label": "naan tawa parathas"
@@ -10067,10 +9207,7 @@ export const data= [
         "value": "natural bourbon vanilla",
         "label": "natural bourbon vanilla"
     },
-    {
-        "value": "natural bourbon vanilla drops",
-        "label": "natural bourbon vanilla drops"
-    },
+ 
     {
         "value": "neem flowers",
         "label": "neem flowers"
@@ -10087,14 +9224,7 @@ export const data= [
         "value": "nendra pazham banana (ripe)",
         "label": "nendra pazham banana (ripe)"
     },
-    {
-        "value": "nendra pazham banana (ripe) angles",
-        "label": "nendra pazham banana (ripe) angles"
-    },
-    {
-        "value": "nendra pazham banana (ripe) over ripe banana",
-        "label": "nendra pazham banana (ripe) over ripe banana"
-    },
+   
     {
         "value": "nilla cookies",
         "label": "nilla cookies"
@@ -10231,94 +9361,23 @@ export const data= [
         "value": "oil",
         "label": "oil"
     },
-    {
-        "value": "oil brush",
-        "label": "oil brush"
-    },
+
     {
         "value": "oil coriander",
         "label": "oil coriander"
     },
-    {
-        "value": "oil coriander (dhania) leaves finely",
-        "label": "oil coriander (dhania) leaves finely"
-    },
+   
     {
         "value": "oil curry leaves",
         "label": "oil curry leaves"
     },
-    {
-        "value": "oil follow the experiment",
-        "label": "oil follow the experiment"
-    },
+  
     {
         "value": "oil ghee",
         "label": "oil ghee"
     },
-    {
-        "value": "oil ghee ( make dosa)",
-        "label": "oil ghee ( make dosa)"
-    },
-    {
-        "value": "oil grease",
-        "label": "oil grease"
-    },
-    {
-        "value": "oil grease the pan",
-        "label": "oil grease the pan"
-    },
-    {
-        "value": "oil making the theplas",
-        "label": "oil making the theplas"
-    },
-    {
-        "value": "oil on paratha",
-        "label": "oil on paratha"
-    },
-    {
-        "value": "oil onion",
-        "label": "oil onion"
-    },
-    {
-        "value": "oil paratha",
-        "label": "oil paratha"
-    },
-    {
-        "value": "oil per the usage",
-        "label": "oil per the usage"
-    },
-    {
-        "value": "oil salt",
-        "label": "oil salt"
-    },
-    {
-        "value": "oil salt by",
-        "label": "oil salt by"
-    },
-    {
-        "value": "oil the paranthas",
-        "label": "oil the paranthas"
-    },
-    {
-        "value": "oil the parathas",
-        "label": "oil the parathas"
-    },
-    {
-        "value": "oil used",
-        "label": "oil used"
-    },
-    {
-        "value": "oil)",
-        "label": "oil)"
-    },
-    {
-        "value": "oilasafoetida",
-        "label": "oilasafoetida"
-    },
-    {
-        "value": "oilcoconut",
-        "label": "oilcoconut"
-    },
+    
+   
     {
         "value": "okra",
         "label": "okra"
@@ -10331,113 +9390,10 @@ export const data= [
         "value": "olive oil",
         "label": "olive oil"
     },
-    {
-        "value": "on top",
-        "label": "on top"
-    },
+   
     {
         "value": "onion",
         "label": "onion"
-    },
-    {
-        "value": "onion ( slices)",
-        "label": "onion ( slices)"
-    },
-    {
-        "value": "onion (red white)",
-        "label": "onion (red white)"
-    },
-    {
-        "value": "onion caramelised",
-        "label": "onion caramelised"
-    },
-    {
-        "value": "onion chipped",
-        "label": "onion chipped"
-    },
-    {
-        "value": "onion churned paste",
-        "label": "onion churned paste"
-    },
-    {
-        "value": "onion diced",
-        "label": "onion diced"
-    },
-    {
-        "value": "onion directly",
-        "label": "onion directly"
-    },
-    {
-        "value": "onion french onion",
-        "label": "onion french onion"
-    },
-    {
-        "value": "onion from the middle",
-        "label": "onion from the middle"
-    },
-    {
-        "value": "onion ground",
-        "label": "onion ground"
-    },
-    {
-        "value": "onion large",
-        "label": "onion large"
-    },
-    {
-        "value": "onion layers separated",
-        "label": "onion layers separated"
-    },
-    {
-        "value": "onion paste",
-        "label": "onion paste"
-    },
-    {
-        "value": "onion paste ( needed)",
-        "label": "onion paste ( needed)"
-    },
-    {
-        "value": "onion paste onion",
-        "label": "onion paste onion"
-    },
-    {
-        "value": "onion powder",
-        "label": "onion powder"
-    },
-    {
-        "value": "onion red",
-        "label": "onion red"
-    },
-    {
-        "value": "onion roun dels",
-        "label": "onion roun dels"
-    },
-    {
-        "value": "onion spring onion",
-        "label": "onion spring onion"
-    },
-    {
-        "value": "onion squares",
-        "label": "onion squares"
-    },
-    {
-        "value": "onion thin+",
-        "label": "onion thin+"
-    },
-    {
-        "value": "onion y",
-        "label": "onion y"
-    },
-    {
-        "value": "onion(caramelize)",
-        "label": "onion(caramelize)"
-    },
-    {
-        "value": "onion(sambar onion)",
-        "label": "onion(sambar onion)"
-    },
-    {
-        "value": "onionlengthwise",
-        "label": "onionlengthwise"
     },
     {
         "value": "orange",
@@ -10447,126 +9403,12 @@ export const data= [
         "value": "orange (from orange)",
         "label": "orange (from orange)"
     },
-    {
-        "value": "orange bell pepper (capsicum)",
-        "label": "orange bell pepper (capsicum)"
-    },
-    {
-        "value": "orange blossom water",
-        "label": "orange blossom water"
-    },
-    {
-        "value": "orange color",
-        "label": "orange color"
-    },
-    {
-        "value": "orange from orange",
-        "label": "orange from orange"
-    },
-    {
-        "value": "orange from orange.",
-        "label": "orange from orange."
-    },
-    {
-        "value": "orange fruit",
-        "label": "orange fruit"
-    },
-    {
-        "value": "orange juice",
-        "label": "orange juice"
-    },
-    {
-        "value": "orange juice can juice",
-        "label": "orange juice can juice"
-    },
-    {
-        "value": "orange juice canned",
-        "label": "orange juice canned"
-    },
-    {
-        "value": "orange juice lemon",
-        "label": "orange juice lemon"
-    },
-    {
-        "value": "orange juice plus",
-        "label": "orange juice plus"
-    },
-    {
-        "value": "orange juice squeezed",
-        "label": "orange juice squeezed"
-    },
-    {
-        "value": "orange juiced",
-        "label": "orange juiced"
-    },
-    {
-        "value": "orange lime zest",
-        "label": "orange lime zest"
-    },
+   
     {
         "value": "orange liquor",
         "label": "orange liquor"
     },
-    {
-        "value": "orange liquor alcohol choice",
-        "label": "orange liquor alcohol choice"
-    },
-    {
-        "value": "orange liquor like grand marnier",
-        "label": "orange liquor like grand marnier"
-    },
-    {
-        "value": "orange marmalade jam",
-        "label": "orange marmalade jam"
-    },
-    {
-        "value": "orange marmalade jam brush on the cake",
-        "label": "orange marmalade jam brush on the cake"
-    },
-    {
-        "value": "orange marmalade jam ed then cooled",
-        "label": "orange marmalade jam ed then cooled"
-    },
-    {
-        "value": "orange mosambi juice",
-        "label": "orange mosambi juice"
-    },
-    {
-        "value": "orange nectarine",
-        "label": "orange nectarine"
-    },
-    {
-        "value": "orange orange",
-        "label": "orange orange"
-    },
-    {
-        "value": "orange pulp",
-        "label": "orange pulp"
-    },
-    {
-        "value": "orange remove the flesh from membrane",
-        "label": "orange remove the flesh from membrane"
-    },
-    {
-        "value": "orange rind on",
-        "label": "orange rind on"
-    },
-    {
-        "value": "orange segments",
-        "label": "orange segments"
-    },
-    {
-        "value": "orange skin segments",
-        "label": "orange skin segments"
-    },
-    {
-        "value": "orange squeezed juice",
-        "label": "orange squeezed juice"
-    },
-    {
-        "value": "orange two",
-        "label": "orange two"
-    },
+    
     {
         "value": "oregano",
         "label": "oregano"
@@ -10579,22 +9421,7 @@ export const data= [
         "value": "oreo biscuits ( large packs)",
         "label": "oreo biscuits ( large packs)"
     },
-    {
-        "value": "oreo biscuits (or chocolate biscuits without",
-        "label": "oreo biscuits (or chocolate biscuits without"
-    },
-    {
-        "value": "oreo biscuits (or digestive biscuits)",
-        "label": "oreo biscuits (or digestive biscuits)"
-    },
-    {
-        "value": "oreo biscuits decorating",
-        "label": "oreo biscuits decorating"
-    },
-    {
-        "value": "oreo biscuits ground",
-        "label": "oreo biscuits ground"
-    },
+   
     {
         "value": "orzo pasta",
         "label": "orzo pasta"
@@ -11888,94 +10715,13 @@ export const data= [
         "value": "potato (aloo) boiled",
         "label": "potato (aloo) boiled"
     },
-    {
-        "value": "potato (aloo) cm cubes",
-        "label": "potato (aloo) cm cubes"
-    },
-    {
-        "value": "potato (aloo) cubes",
-        "label": "potato (aloo) cubes"
-    },
-    {
-        "value": "potato (aloo) fingers",
-        "label": "potato (aloo) fingers"
-    },
-    {
-        "value": "potato (aloo) firm",
-        "label": "potato (aloo) firm"
-    },
-    {
-        "value": "potato (aloo) fries",
-        "label": "potato (aloo) fries"
-    },
-    {
-        "value": "potato (aloo) large cubes",
-        "label": "potato (aloo) large cubes"
-    },
-    {
-        "value": "potato (aloo) paper",
-        "label": "potato (aloo) paper"
-    },
-    {
-        "value": "potato (aloo) pealed",
-        "label": "potato (aloo) pealed"
-    },
-    {
-        "value": "potato (aloo) pressure",
-        "label": "potato (aloo) pressure"
-    },
-    {
-        "value": "potato (aloo) salt water",
-        "label": "potato (aloo) salt water"
-    },
-    {
-        "value": "potato (aloo) skin",
-        "label": "potato (aloo) skin"
-    },
-    {
-        "value": "potato (aloo) skin pound",
-        "label": "potato (aloo) skin pound"
-    },
-    {
-        "value": "potato (aloo) straws",
-        "label": "potato (aloo) straws"
-    },
-    {
-        "value": "potato (aloo) the potatoes",
-        "label": "potato (aloo) the potatoes"
-    },
-    {
-        "value": "potato (aloo) the skin large cubes",
-        "label": "potato (aloo) the skin large cubes"
-    },
-    {
-        "value": "potato masala",
-        "label": "potato masala"
-    },
+  
     {
         "value": "potatoes",
         "label": "potatoes"
     },
-    {
-        "value": "potatoes boil",
-        "label": "potatoes boil"
-    },
-    {
-        "value": "potatoes boil mash karela",
-        "label": "potatoes boil mash karela"
-    },
-    {
-        "value": "potatoes boil remove the skin",
-        "label": "potatoes boil remove the skin"
-    },
-    {
-        "value": "potatoes bs",
-        "label": "potatoes bs"
-    },
-    {
-        "value": "potatoes potato",
-        "label": "potatoes potato"
-    },
+    
+ 
     {
         "value": "prawns",
         "label": "prawns"
@@ -11992,42 +10738,7 @@ export const data= [
         "value": "prawns deveined",
         "label": "prawns deveined"
     },
-    {
-        "value": "prawns deveined shelled",
-        "label": "prawns deveined shelled"
-    },
-    {
-        "value": "prawns marinate",
-        "label": "prawns marinate"
-    },
-    {
-        "value": "prawns marinated",
-        "label": "prawns marinated"
-    },
-    {
-        "value": "prawns shelled",
-        "label": "prawns shelled"
-    },
-    {
-        "value": "prawns shells deveined",
-        "label": "prawns shells deveined"
-    },
-    {
-        "value": "prawns tiger",
-        "label": "prawns tiger"
-    },
-    {
-        "value": "prawns tiger prawns",
-        "label": "prawns tiger prawns"
-    },
-    {
-        "value": "prawns un",
-        "label": "prawns un"
-    },
-    {
-        "value": "preferred",
-        "label": "preferred"
-    },
+   
     {
         "value": "preserved pineapple",
         "label": "preserved pineapple"
@@ -12060,10 +10771,7 @@ export const data= [
         "value": "puff pastry sheet",
         "label": "puff pastry sheet"
     },
-    {
-        "value": "puff pastry sheet ( * es)",
-        "label": "puff pastry sheet ( * es)"
-    },
+    
     {
         "value": "puffed grains jowar",
         "label": "puffed grains jowar"
@@ -12072,18 +10780,7 @@ export const data= [
         "value": "puffed rice",
         "label": "puffed rice"
     },
-    {
-        "value": "puffed rice (aralu)",
-        "label": "puffed rice (aralu)"
-    },
-    {
-        "value": "puffed rice (kheel)",
-        "label": "puffed rice (kheel)"
-    },
-    {
-        "value": "puffed rice namkeen (mixture)",
-        "label": "puffed rice namkeen (mixture)"
-    },
+   
     {
         "value": "puliodarai powder",
         "label": "puliodarai powder"
@@ -12100,18 +10797,7 @@ export const data= [
         "value": "pumpkin leaves",
         "label": "pumpkin leaves"
     },
-    {
-        "value": "pumpkin pasta sauce",
-        "label": "pumpkin pasta sauce"
-    },
-    {
-        "value": "pumpkin pie spice",
-        "label": "pumpkin pie spice"
-    },
-    {
-        "value": "pumpkin pie spice (or mix nutmeg",
-        "label": "pumpkin pie spice (or mix nutmeg"
-    },
+  
     {
         "value": "pumpkin seeds",
         "label": "pumpkin seeds"
@@ -12124,10 +10810,7 @@ export const data= [
         "value": "punjabi style mango pickle",
         "label": "punjabi style mango pickle"
     },
-    {
-        "value": "punjabi style mango pickle only the masala not the",
-        "label": "punjabi style mango pickle only the masala not the"
-    },
+   
     {
         "value": "puris used pani puri",
         "label": "puris used pani puri"
@@ -12140,10 +10823,7 @@ export const data= [
         "value": "purple cabbage",
         "label": "purple cabbage"
     },
-    {
-        "value": "purple cabbage regular cabbage",
-        "label": "purple cabbage regular cabbage"
-    },
+ 
     {
         "value": "purple carrot",
         "label": "purple carrot"
@@ -12168,10 +10848,7 @@ export const data= [
         "value": "quinoa flour",
         "label": "quinoa flour"
     },
-    {
-        "value": "quinoa flour millet flour",
-        "label": "quinoa flour millet flour"
-    },
+ 
     {
         "value": "quinoa organic",
         "label": "quinoa organic"
@@ -12188,10 +10865,7 @@ export const data= [
         "value": "rabodi",
         "label": "rabodi"
     },
-    {
-        "value": "rabodi (dried corn papad)",
-        "label": "rabodi (dried corn papad)"
-    },
+
     {
         "value": "rabri",
         "label": "rabri"
@@ -12212,14 +10886,7 @@ export const data= [
         "value": "radish leaves",
         "label": "radish leaves"
     },
-    {
-        "value": "radish take",
-        "label": "radish take"
-    },
-    {
-        "value": "radishes",
-        "label": "radishes"
-    },
+  
     {
         "value": "ragi dosa batter",
         "label": "ragi dosa batter"
@@ -12236,10 +10903,7 @@ export const data= [
         "value": "ragi flour (finger millet nagli)",
         "label": "ragi flour (finger millet nagli)"
     },
-    {
-        "value": "ragi flour (finger millet nagli) (ragi huri hittu best use)",
-        "label": "ragi flour (finger millet nagli) (ragi huri hittu best use)"
-    },
+  
     {
         "value": "ragi rava",
         "label": "ragi rava"
@@ -12248,54 +10912,17 @@ export const data= [
         "value": "ragi seeds",
         "label": "ragi seeds"
     },
-    {
-        "value": "ragi seeds least",
-        "label": "ragi seeds least"
-    },
-    {
-        "value": "ragi seeds sprouted",
-        "label": "ragi seeds sprouted"
-    },
+ 
     {
         "value": "raisins",
         "label": "raisins"
     },
-    {
-        "value": "raisins (black variety)",
-        "label": "raisins (black variety)"
-    },
-    {
-        "value": "raisins (sultana)",
-        "label": "raisins (sultana)"
-    },
-    {
-        "value": "raisins black",
-        "label": "raisins black"
-    },
-    {
-        "value": "raisins ghee",
-        "label": "raisins ghee"
-    },
+  
     {
         "value": "raisins milk",
         "label": "raisins milk"
     },
-    {
-        "value": "raisins raisins",
-        "label": "raisins raisins"
-    },
-    {
-        "value": "raisins rum orange juice",
-        "label": "raisins rum orange juice"
-    },
-    {
-        "value": "raisins sultanas",
-        "label": "raisins sultanas"
-    },
-    {
-        "value": "raisins sutana variety",
-        "label": "raisins sutana variety"
-    },
+    
     {
         "value": "raita masala",
         "label": "raita masala"
@@ -12312,30 +10939,7 @@ export const data= [
         "value": "rajma",
         "label": "rajma"
     },
-    {
-        "value": "rajma (large kidney beans)",
-        "label": "rajma (large kidney beans)"
-    },
-    {
-        "value": "rajma (large kidney beans) (or beans)",
-        "label": "rajma (large kidney beans) (or beans)"
-    },
-    {
-        "value": "rajma (large kidney beans) but not",
-        "label": "rajma (large kidney beans) but not"
-    },
-    {
-        "value": "rajma (large kidney beans) pressure",
-        "label": "rajma (large kidney beans) pressure"
-    },
-    {
-        "value": "rajma (large kidney beans) rajma",
-        "label": "rajma (large kidney beans) rajma"
-    },
-    {
-        "value": "rajma (large kidney beans) sprouted",
-        "label": "rajma (large kidney beans) sprouted"
-    },
+   
     {
         "value": "ranch sauce",
         "label": "ranch sauce"
@@ -12356,18 +10960,12 @@ export const data= [
         "value": "rasam powder red chilli powder",
         "label": "rasam powder red chilli powder"
     },
-    {
-        "value": "rasam powder red chilly powder",
-        "label": "rasam powder red chilly powder"
-    },
+ 
     {
         "value": "rasgulla",
         "label": "rasgulla"
     },
-    {
-        "value": "rasgulla horizonty",
-        "label": "rasgulla horizonty"
-    },
+
     {
         "value": "rasgulla syrup",
         "label": "rasgulla syrup"
@@ -12376,14 +10974,7 @@ export const data= [
         "value": "raspberries",
         "label": "raspberries"
     },
-    {
-        "value": "raspberries locy available berry",
-        "label": "raspberries locy available berry"
-    },
-    {
-        "value": "raspberries other berries choice",
-        "label": "raspberries other berries choice"
-    },
+  
     {
         "value": "raspberry compote",
         "label": "raspberry compote"
@@ -12392,14 +10983,7 @@ export const data= [
         "value": "ratan jot (alkanet) (infuse heated oil)",
         "label": "ratan jot (alkanet) (infuse heated oil)"
     },
-    {
-        "value": "ratan jot (alkanet) infuse heated oil",
-        "label": "ratan jot (alkanet) infuse heated oil"
-    },
-    {
-        "value": "ratan jot (alkanet) infused oil",
-        "label": "ratan jot (alkanet) infused oil"
-    },
+
     {
         "value": "re beans",
         "label": "re beans"
@@ -12412,10 +10996,7 @@ export const data= [
         "value": "recipe chocolate ganache",
         "label": "recipe chocolate ganache"
     },
-    {
-        "value": "recipe pastry dough short crust tart",
-        "label": "recipe pastry dough short crust tart"
-    },
+
     {
         "value": "recipe pie crust",
         "label": "recipe pie crust"
@@ -12428,10 +11009,7 @@ export const data= [
         "value": "red amaranth leaves spinach leaves",
         "label": "red amaranth leaves spinach leaves"
     },
-    {
-        "value": "red amaranth leaves you can spinach also",
-        "label": "red amaranth leaves you can spinach also"
-    },
+
     {
         "value": "red baby radish",
         "label": "red baby radish"
@@ -12444,46 +11022,9 @@ export const data= [
         "value": "red bell pepper (capsicum)",
         "label": "red bell pepper (capsicum)"
     },
-    {
-        "value": "red bell pepper (capsicum) (",
-        "label": "red bell pepper (capsicum) ("
-    },
-    {
-        "value": "red bell pepper (capsicum) (or other vegetables that can be stir )",
-        "label": "red bell pepper (capsicum) (or other vegetables that can be stir )"
-    },
-    {
-        "value": "red bell pepper (capsicum) diagonal",
-        "label": "red bell pepper (capsicum) diagonal"
-    },
-    {
-        "value": "red bell pepper (capsicum) fire",
-        "label": "red bell pepper (capsicum) fire"
-    },
-    {
-        "value": "red bell pepper (capsicum) julienne",
-        "label": "red bell pepper (capsicum) julienne"
-    },
-    {
-        "value": "red bell pepper (capsicum) larger",
-        "label": "red bell pepper (capsicum) larger"
-    },
-    {
-        "value": "red bell pepper (capsicum) smer",
-        "label": "red bell pepper (capsicum) smer"
-    },
-    {
-        "value": "red bell pepper (capsicum) squares",
-        "label": "red bell pepper (capsicum) squares"
-    },
-    {
-        "value": "red bell pepper (capsicum) yellow",
-        "label": "red bell pepper (capsicum) yellow"
-    },
-    {
-        "value": "red bell pepper (capsicum)lengthwise",
-        "label": "red bell pepper (capsicum)lengthwise"
-    },
+ 
+
+  
     {
         "value": "red black eyed beans (azuki)",
         "label": "red black eyed beans (azuki)"
@@ -12496,242 +11037,12 @@ export const data= [
         "value": "red chilli",
         "label": "red chilli"
     },
-    {
-        "value": "red chilli dry",
-        "label": "red chilli dry"
-    },
-    {
-        "value": "red chilli flakes",
-        "label": "red chilli flakes"
-    },
-    {
-        "value": "red chilli flakes (",
-        "label": "red chilli flakes ("
-    },
-    {
-        "value": "red chilli flakes ( preference)",
-        "label": "red chilli flakes ( preference)"
-    },
-    {
-        "value": "red chilli flakes black pepper powder",
-        "label": "red chilli flakes black pepper powder"
-    },
-    {
-        "value": "red chilli flakes ground",
-        "label": "red chilli flakes ground"
-    },
-    {
-        "value": "red chilli flakes paprika",
-        "label": "red chilli flakes paprika"
-    },
-    {
-        "value": "red chilli flakes per spice tolerance",
-        "label": "red chilli flakes per spice tolerance"
-    },
-    {
-        "value": "red chilli flakes red chilli powder",
-        "label": "red chilli flakes red chilli powder"
-    },
-    {
-        "value": "red chilli flakes red chillies",
-        "label": "red chilli flakes red chillies"
-    },
-    {
-        "value": "red chilli flakes tabasco sauce spice",
-        "label": "red chilli flakes tabasco sauce spice"
-    },
-    {
-        "value": "red chilli flax",
-        "label": "red chilli flax"
-    },
-    {
-        "value": "red chilli heat the chillies",
-        "label": "red chilli heat the chillies"
-    },
-    {
-        "value": "red chilli paste",
-        "label": "red chilli paste"
-    },
-    {
-        "value": "red chilli powder",
-        "label": "red chilli powder"
-    },
-    {
-        "value": "red chilli powder ( less based on the spice level desired)",
-        "label": "red chilli powder ( less based on the spice level desired)"
-    },
-    {
-        "value": "red chilli powder ( per preference)",
-        "label": "red chilli powder ( per preference)"
-    },
-    {
-        "value": "red chilli powder ( suit spice levels)",
-        "label": "red chilli powder ( suit spice levels)"
-    },
-    {
-        "value": "red chilli powder ( tolerance)",
-        "label": "red chilli powder ( tolerance)"
-    },
-    {
-        "value": "red chilli powder ( you like spicy)",
-        "label": "red chilli powder ( you like spicy)"
-    },
-    {
-        "value": "red chilli powder (dajust )",
-        "label": "red chilli powder (dajust )"
-    },
-    {
-        "value": "red chilli powder (or cayenne pepper)",
-        "label": "red chilli powder (or cayenne pepper)"
-    },
-    {
-        "value": "red chilli powder adjut",
-        "label": "red chilli powder adjut"
-    },
-    {
-        "value": "red chilli powder be ed based on \u2019preference",
-        "label": "red chilli powder be ed based on \u2019preference"
-    },
-    {
-        "value": "red chilli powder black pepper corns",
-        "label": "red chilli powder black pepper corns"
-    },
-    {
-        "value": "red chilli powder black pepper powder",
-        "label": "red chilli powder black pepper powder"
-    },
-    {
-        "value": "red chilli powder bydagi red powder",
-        "label": "red chilli powder bydagi red powder"
-    },
-    {
-        "value": "red chilli powder cayenne pepper",
-        "label": "red chilli powder cayenne pepper"
-    },
-    {
-        "value": "red chilli powder chilli flakes",
-        "label": "red chilli powder chilli flakes"
-    },
-    {
-        "value": "red chilli powder desired",
-        "label": "red chilli powder desired"
-    },
-    {
-        "value": "red chilli powder differ amount",
-        "label": "red chilli powder differ amount"
-    },
-    {
-        "value": "red chilli powder flakes",
-        "label": "red chilli powder flakes"
-    },
-    {
-        "value": "red chilli powder green chilli paste",
-        "label": "red chilli powder green chilli paste"
-    },
-    {
-        "value": "red chilli powder green chillies",
-        "label": "red chilli powder green chillies"
-    },
-    {
-        "value": "red chilli powder mixed water",
-        "label": "red chilli powder mixed water"
-    },
-    {
-        "value": "red chilli powder paprika",
-        "label": "red chilli powder paprika"
-    },
-    {
-        "value": "red chilli powder per heat tolerance",
-        "label": "red chilli powder per heat tolerance"
-    },
-    {
-        "value": "red chilli powder per spice preference",
-        "label": "red chilli powder per spice preference"
-    },
-    {
-        "value": "red chilli powder preferably byadgi chilli powder",
-        "label": "red chilli powder preferably byadgi chilli powder"
-    },
-    {
-        "value": "red chilli powder red chilli flakes",
-        "label": "red chilli powder red chilli flakes"
-    },
-    {
-        "value": "red chilli powder red chilli powder",
-        "label": "red chilli powder red chilli powder"
-    },
-    {
-        "value": "red chilli powder red chilly powder",
-        "label": "red chilli powder red chilly powder"
-    },
-    {
-        "value": "red chilli powder smoked paprika",
-        "label": "red chilli powder smoked paprika"
-    },
-    {
-        "value": "red chilli powder sprinkling",
-        "label": "red chilli powder sprinkling"
-    },
-    {
-        "value": "red chilli powder the batter",
-        "label": "red chilli powder the batter"
-    },
-    {
-        "value": "red chilli sauce",
-        "label": "red chilli sauce"
-    },
-    {
-        "value": "red chilli sauce (asian style)",
-        "label": "red chilli sauce (asian style)"
-    },
-    {
-        "value": "red chilli sauce (or birds eye chilli sauce)",
-        "label": "red chilli sauce (or birds eye chilli sauce)"
-    },
-    {
-        "value": "red chilli sauce (or other red chilli sauce)",
-        "label": "red chilli sauce (or other red chilli sauce)"
-    },
-    {
-        "value": "red chilli sauce (preferably chilli oil)",
-        "label": "red chilli sauce (preferably chilli oil)"
-    },
-    {
-        "value": "red chilli sauce sriracha",
-        "label": "red chilli sauce sriracha"
-    },
-    {
-        "value": "red chilli sauce sriracha sauce",
-        "label": "red chilli sauce sriracha sauce"
-    },
-    {
-        "value": "red chillies",
-        "label": "red chillies"
-    },
-    {
-        "value": "red chillies fire",
-        "label": "red chillies fire"
-    },
-    {
-        "value": "red chillies green chilli",
-        "label": "red chillies green chilli"
-    },
-    {
-        "value": "red chillies green chillies",
-        "label": "red chillies green chillies"
-    },
-    {
-        "value": "red chillies water",
-        "label": "red chillies water"
-    },
+   
     {
         "value": "red food color",
         "label": "red food color"
     },
-    {
-        "value": "red food color (only )",
-        "label": "red food color (only )"
-    },
+   
     {
         "value": "red grapes",
         "label": "red grapes"
@@ -12768,10 +11079,7 @@ export const data= [
         "value": "red radish",
         "label": "red radish"
     },
-    {
-        "value": "red radish +couple",
-        "label": "red radish +couple"
-    },
+ 
     {
         "value": "red romaine lettuce",
         "label": "red romaine lettuce"
@@ -12792,10 +11100,7 @@ export const data= [
         "value": "red wine",
         "label": "red wine"
     },
-    {
-        "value": "red wine (or wine)",
-        "label": "red wine (or wine)"
-    },
+  
     {
         "value": "red wine vinaigrette",
         "label": "red wine vinaigrette"
@@ -12804,366 +11109,59 @@ export const data= [
         "value": "red wine vinaigrette (juice lemon)",
         "label": "red wine vinaigrette (juice lemon)"
     },
-    {
-        "value": "red wine vinaigrette apple cider vinegar",
-        "label": "red wine vinaigrette apple cider vinegar"
-    },
+  
     {
         "value": "red yellow green bell pepper (capsicum)",
         "label": "red yellow green bell pepper (capsicum)"
     },
-    {
-        "value": "red yellow green bell pepper (capsicum) green",
-        "label": "red yellow green bell pepper (capsicum) green"
-    },
-    {
-        "value": "red yellow green bell peppers (capsicum)",
-        "label": "red yellow green bell peppers (capsicum)"
-    },
-    {
-        "value": "red yellow green bell peppers (capsicum) ( each)",
-        "label": "red yellow green bell peppers (capsicum) ( each)"
-    },
-    {
-        "value": "red yellow green bell peppers (capsicum) squares",
-        "label": "red yellow green bell peppers (capsicum) squares"
-    },
-    {
-        "value": "reserve",
-        "label": "reserve"
-    },
-    {
-        "value": "reserved water from boiling pasta",
-        "label": "reserved water from boiling pasta"
-    },
+ 
+
     {
         "value": "rice",
         "label": "rice"
-    },
-    {
-        "value": "rice ( rice variety)",
-        "label": "rice ( rice variety)"
-    },
-    {
-        "value": "rice (leftover works fine)",
-        "label": "rice (leftover works fine)"
-    },
-    {
-        "value": "rice (leftover)",
-        "label": "rice (leftover)"
-    },
-    {
-        "value": "rice (or jasmine rice traditiony used)",
-        "label": "rice (or jasmine rice traditiony used)"
-    },
-    {
-        "value": "rice (raw rice preferred)",
-        "label": "rice (raw rice preferred)"
-    },
-    {
-        "value": "rice (raw rice variety)",
-        "label": "rice (raw rice variety)"
-    },
-    {
-        "value": "rice (raw rice)",
-        "label": "rice (raw rice)"
-    },
-    {
-        "value": "rice (same you used the dough)",
-        "label": "rice (same you used the dough)"
-    },
-    {
-        "value": "rice (sona masuri local rice)",
-        "label": "rice (sona masuri local rice)"
-    },
-    {
-        "value": "rice (sona masuri variety)",
-        "label": "rice (sona masuri variety)"
     },
     {
         "value": "rice (white brown)",
         "label": "rice (white brown)"
     },
     {
-        "value": "rice ada",
-        "label": "rice ada"
-    },
-    {
-        "value": "rice ada ready",
-        "label": "rice ada ready"
-    },
-    {
-        "value": "rice atleast",
-        "label": "rice atleast"
-    },
-    {
-        "value": "rice basmati gobindobhog",
-        "label": "rice basmati gobindobhog"
-    },
-    {
-        "value": "rice brown rice",
-        "label": "rice brown rice"
-    },
-    {
-        "value": "rice chicken",
-        "label": "rice chicken"
-    },
-    {
-        "value": "rice cook",
-        "label": "rice cook"
-    },
-    {
-        "value": "rice cooled completely",
-        "label": "rice cooled completely"
-    },
-    {
-        "value": "rice days",
-        "label": "rice days"
-    },
-    {
-        "value": "rice days ( change water everyday)",
-        "label": "rice days ( change water everyday)"
-    },
-    {
-        "value": "rice dried",
-        "label": "rice dried"
-    },
-    {
-        "value": "rice dried completely dry cloth",
-        "label": "rice dried completely dry cloth"
-    },
-    {
         "value": "rice flour",
         "label": "rice flour"
     },
-    {
-        "value": "rice flour (jowar flour ragi flour can also be used)",
-        "label": "rice flour (jowar flour ragi flour can also be used)"
-    },
-    {
-        "value": "rice flour be used only )",
-        "label": "rice flour be used only )"
-    },
-    {
-        "value": "rice flour buckwheat flour",
-        "label": "rice flour buckwheat flour"
-    },
-    {
-        "value": "rice flour flour",
-        "label": "rice flour flour"
-    },
-    {
-        "value": "rice flour make crisp",
-        "label": "rice flour make crisp"
-    },
-    {
-        "value": "rice flour potato",
-        "label": "rice flour potato"
-    },
-    {
-        "value": "rice flour rice powder",
-        "label": "rice flour rice powder"
-    },
-    {
-        "value": "rice flour sieved",
-        "label": "rice flour sieved"
-    },
-    {
-        "value": "rice flour sooji rice will also do",
-        "label": "rice flour sooji rice will also do"
-    },
-    {
-        "value": "rice fluffy",
-        "label": "rice fluffy"
-    },
-    {
-        "value": "rice fully",
-        "label": "rice fully"
-    },
-    {
-        "value": "rice grain",
-        "label": "rice grain"
-    },
-    {
-        "value": "rice grainy form",
-        "label": "rice grainy form"
-    },
-    {
-        "value": "rice ground",
-        "label": "rice ground"
-    },
-    {
-        "value": "rice help bind",
-        "label": "rice help bind"
-    },
-    {
-        "value": "rice hour",
-        "label": "rice hour"
-    },
-    {
-        "value": "rice least",
-        "label": "rice least"
-    },
-    {
-        "value": "rice leftover",
-        "label": "rice leftover"
-    },
-    {
-        "value": "rice min",
-        "label": "rice min"
-    },
+  
+  
+   
     {
         "value": "rice noodles",
         "label": "rice noodles"
     },
-    {
-        "value": "rice noodles (flat)",
-        "label": "rice noodles (flat)"
-    },
-    {
-        "value": "rice noodles dry",
-        "label": "rice noodles dry"
-    },
-    {
-        "value": "rice noodles variety",
-        "label": "rice noodles variety"
-    },
-    {
-        "value": "rice over night",
-        "label": "rice over night"
-    },
-    {
-        "value": "rice paper rolls",
-        "label": "rice paper rolls"
-    },
-    {
-        "value": "rice paper rolls sheets",
-        "label": "rice paper rolls sheets"
-    },
-    {
-        "value": "rice puttu wheat puttu",
-        "label": "rice puttu wheat puttu"
-    },
+   
+  
     {
         "value": "rice rava",
         "label": "rice rava"
     },
-    {
-        "value": "rice rava idli rava",
-        "label": "rice rava idli rava"
-    },
-    {
-        "value": "rice rice flour",
-        "label": "rice rice flour"
-    },
-    {
-        "value": "rice rice rawa",
-        "label": "rice rice rawa"
-    },
-    {
-        "value": "rice semi",
-        "label": "rice semi"
-    },
-    {
-        "value": "rice short grain",
-        "label": "rice short grain"
-    },
-    {
-        "value": "rice short grained",
-        "label": "rice short grained"
-    },
-    {
-        "value": "rice soak",
-        "label": "rice soak"
-    },
-    {
-        "value": "rice vermicelli noodles (thin)",
-        "label": "rice vermicelli noodles (thin)"
-    },
-    {
-        "value": "rice vermicelli noodles (thin) (amount may change depending on the variety the noodles)",
-        "label": "rice vermicelli noodles (thin) (amount may change depending on the variety the noodles)"
-    },
+   
+  
     {
         "value": "rice vinegar",
         "label": "rice vinegar"
     },
-    {
-        "value": "rice vinegar regular vinegar",
-        "label": "rice vinegar regular vinegar"
-    },
-    {
-        "value": "rice vinegar white vinegar",
-        "label": "rice vinegar white vinegar"
-    },
+    
     {
         "value": "rice water",
         "label": "rice water"
     },
-    {
-        "value": "rice water min",
-        "label": "rice water min"
-    },
-    {
-        "value": "rice wine vinegar",
-        "label": "rice wine vinegar"
-    },
+   
     {
         "value": "ricotta cheese",
         "label": "ricotta cheese"
     },
     {
-        "value": "ricotta cheese (or paneer)",
-        "label": "ricotta cheese (or paneer)"
-    },
-    {
-        "value": "ricotta cheese malai paneer",
-        "label": "ricotta cheese malai paneer"
-    },
-    {
-        "value": "ricotta cheese other soft cheese",
-        "label": "ricotta cheese other soft cheese"
-    },
-    {
-        "value": "ricotta cheese paneer",
-        "label": "ricotta cheese paneer"
-    },
-    {
         "value": "ridge gourd (turai peerkangai)",
         "label": "ridge gourd (turai peerkangai)"
     },
-    {
-        "value": "ridge gourd (turai peerkangai) (check notes the end)",
-        "label": "ridge gourd (turai peerkangai) (check notes the end)"
-    },
-    {
-        "value": "ridge gourd (turai peerkangai) cubes",
-        "label": "ridge gourd (turai peerkangai) cubes"
-    },
-    {
-        "value": "ridge gourd (turai peerkangai) dices",
-        "label": "ridge gourd (turai peerkangai) dices"
-    },
-    {
-        "value": "ridge gourd (turai peerkangai) scraped",
-        "label": "ridge gourd (turai peerkangai) scraped"
-    },
-    {
-        "value": "ridge gourd (turai peerkangai) skin",
-        "label": "ridge gourd (turai peerkangai) skin"
-    },
-    {
-        "value": "ridge gourd (turai peerkangai) skin cylindrical.",
-        "label": "ridge gourd (turai peerkangai) skin cylindrical."
-    },
-    {
-        "value": "ridge gourd skin (turai peerkangai)",
-        "label": "ridge gourd skin (turai peerkangai)"
-    },
-    {
-        "value": "ridge gourd skin (turai peerkangai) ( two ridge gourds)",
-        "label": "ridge gourd skin (turai peerkangai) ( two ridge gourds)"
-    },
+  
     {
         "value": "risotto",
         "label": "risotto"
@@ -13180,18 +11178,8 @@ export const data= [
         "value": "rocket leaves",
         "label": "rocket leaves"
     },
-    {
-        "value": "rocket leaves ( spinach you don'have)",
-        "label": "rocket leaves ( spinach you don'have)"
-    },
-    {
-        "value": "rocket leaves salad leaves the sandwich",
-        "label": "rocket leaves salad leaves the sandwich"
-    },
-    {
-        "value": "rocket leaves spinach leaves",
-        "label": "rocket leaves spinach leaves"
-    },
+ 
+  
     {
         "value": "rohu fish",
         "label": "rohu fish"
@@ -13200,26 +11188,12 @@ export const data= [
         "value": "rohu fish katla carp",
         "label": "rohu fish katla carp"
     },
-    {
-        "value": "rohu fish water fish like catla",
-        "label": "rohu fish water fish like catla"
-    },
+
     {
         "value": "rolled oats",
         "label": "rolled oats"
     },
-    {
-        "value": "rolled oats ground flour",
-        "label": "rolled oats ground flour"
-    },
-    {
-        "value": "rolled oats instant oats",
-        "label": "rolled oats instant oats"
-    },
-    {
-        "value": "rolled oats not the quick variety",
-        "label": "rolled oats not the quick variety"
-    },
+  
     {
         "value": "rooh afza sharbat",
         "label": "rooh afza sharbat"
@@ -13448,198 +11422,12 @@ export const data= [
         "value": "salt",
         "label": "salt"
     },
-    {
-        "value": "salt (for fasting)",
-        "label": "salt (for fasting)"
-    },
-    {
-        "value": "salt (kala namak",
-        "label": "salt (kala namak"
-    },
-    {
-        "value": "salt (kala namak using fast)",
-        "label": "salt (kala namak using fast)"
-    },
-    {
-        "value": "salt (most preserved fish have salt so discretion using the salt)",
-        "label": "salt (most preserved fish have salt so discretion using the salt)"
-    },
-    {
-        "value": "salt (only )",
-        "label": "salt (only )"
-    },
-    {
-        "value": "salt (or kala namak when fasting)",
-        "label": "salt (or kala namak when fasting)"
-    },
-    {
-        "value": "salt (salt)",
-        "label": "salt (salt)"
-    },
-    {
-        "value": "salt aa",
-        "label": "salt aa"
-    },
-    {
-        "value": "salt accroding",
-        "label": "salt accroding"
-    },
-    {
-        "value": "salt bit",
-        "label": "salt bit"
-    },
-    {
-        "value": "salt black salt",
-        "label": "salt black salt"
-    },
-    {
-        "value": "salt butter",
-        "label": "salt butter"
-    },
-    {
-        "value": "salt coarse",
-        "label": "salt coarse"
-    },
-    {
-        "value": "salt coarse salt crystals",
-        "label": "salt coarse salt crystals"
-    },
-    {
-        "value": "salt coriander",
-        "label": "salt coriander"
-    },
-    {
-        "value": "salt coriander (dhania) leaves",
-        "label": "salt coriander (dhania) leaves"
-    },
-    {
-        "value": "salt cumin powder",
-        "label": "salt cumin powder"
-    },
-    {
-        "value": "salt cumin seeds",
-        "label": "salt cumin seeds"
-    },
-    {
-        "value": "salt curry leaves",
-        "label": "salt curry leaves"
-    },
-    {
-        "value": "salt during fasting)",
-        "label": "salt during fasting)"
-    },
-    {
-        "value": "salt flavored",
-        "label": "salt flavored"
-    },
-    {
-        "value": "salt ghee",
-        "label": "salt ghee"
-    },
-    {
-        "value": "salt mustard",
-        "label": "salt mustard"
-    },
-    {
-        "value": "salt needed",
-        "label": "salt needed"
-    },
-    {
-        "value": "salt oil",
-        "label": "salt oil"
-    },
-    {
-        "value": "salt pasta",
-        "label": "salt pasta"
-    },
-    {
-        "value": "salt per",
-        "label": "salt per"
-    },
-    {
-        "value": "salt per requirement",
-        "label": "salt per requirement"
-    },
-    {
-        "value": "salt pomfret",
-        "label": "salt pomfret"
-    },
-    {
-        "value": "salt pressure",
-        "label": "salt pressure"
-    },
-    {
-        "value": "salt regular salt",
-        "label": "salt regular salt"
-    },
-    {
-        "value": "salt rimming the glass (margarita salt",
-        "label": "salt rimming the glass (margarita salt"
-    },
-    {
-        "value": "salt salt",
-        "label": "salt salt"
-    },
-    {
-        "value": "salt season",
-        "label": "salt season"
-    },
-    {
-        "value": "salt sendha namak",
-        "label": "salt sendha namak"
-    },
-    {
-        "value": "salt sendha namak per paste",
-        "label": "salt sendha namak per paste"
-    },
-    {
-        "value": "salt some the chana dal",
-        "label": "salt some the chana dal"
-    },
-    {
-        "value": "salt spoon oil",
-        "label": "salt spoon oil"
-    },
-    {
-        "value": "salt sugar per preference",
-        "label": "salt sugar per preference"
-    },
-    {
-        "value": "salt tase",
-        "label": "salt tase"
-    },
-    {
-        "value": "salt the dough",
-        "label": "salt the dough"
-    },
-    {
-        "value": "salt two",
-        "label": "salt two"
-    },
-    {
-        "value": "salt used",
-        "label": "salt used"
-    },
-    {
-        "value": "salt using unsalted butter",
-        "label": "salt using unsalted butter"
-    },
-    {
-        "value": "salt water",
-        "label": "salt water"
-    },
-    {
-        "value": "salt you can the normal salt too",
-        "label": "salt you can the normal salt too"
-    },
+   
     {
         "value": "salted butter",
         "label": "salted butter"
     },
-    {
-        "value": "salted butter sandwich",
-        "label": "salted butter sandwich"
-    },
+ 
     {
         "value": "saltlemon",
         "label": "saltlemon"

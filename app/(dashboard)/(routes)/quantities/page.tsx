@@ -1,14 +1,15 @@
 "use client";
 import axios from "axios";
 import Heading from "@/components/Heading";
-import { ChefHat } from "lucide-react";
+import { Scale } from "lucide-react";
 import Image from "next/image";
-import { data } from "@/lib/unique_ingredients";
+import { recipeNames } from "@/lib/recipeNames";
 import AsyncSelect from "react-select/async";
 import {
   OptionsOrGroups,
   GroupBase,
   MultiValue,
+  SingleValue,
   ActionMeta,
 } from "react-select";
 import { useState } from "react";
@@ -20,6 +21,9 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+
+// Convert the array of strings into { value, label } format
+const options = recipeNames.map((name) => ({ value: name, label: name }));
 
 // Define the type for each option in the select dropdown
 interface Option {
@@ -34,83 +38,75 @@ interface Dish {
   TotalTimeInMins: number;
 }
 
-export default function RecipesPredictionPage() {
+export default function QuantityEstimationPage() {
   // Capture selected options
-  const [selectedIngredients, setSelectedIngredients] = useState<Option[]>([]);
+
   const [dishes, setDishes] = useState<Dish[]>([]);
   const [loading, setLoading] = useState(false);
+  const [selectedDish, setSelectedDish] = useState<Option | null>(null);
 
   const url = `${process.env.NEXT_PUBLIC_BACKEND_API_URL}`;
   // Send selected data to Flask API
   const sendDataToBackend = async () => {
-    if (!selectedIngredients.length) {
-      alert("Please select at least one ingredient!");
-      return;
-    }
 
-    try {
-      setLoading(true);
-      const ingredients = selectedIngredients
-        .map((item) => item.label)
-        .join(",");
-      console.log(url);
-      const response = await axios.post(`${url}/recommend`, {
-        ingredients, // Pass ingredients as a comma-separated string
-        top_n: 12, // Limit results to top 12
-      });
+    // if (!selectedIngredients.length) {
+    //   alert("Please select at least one ingredient!");
+    //   return;
+    // }
+    // try {
+    //   setLoading(true);
+    //   const ingredients = selectedIngredients
+    //     .map((item) => item.label)
+    //     .join(",");
+    //   console.log(url);
+    //   const response = await axios.post(`${url}/recommend`, {
+    //     ingredients, // Pass ingredients as a comma-separated string
+    //     top_n: 12, // Limit results to top 12
+    //   });
 
-      console.log("Response from backend:", response.data);
-      setDishes(response.data.results);
-      // // Clear selection after successful submission
-      // setSelectedIngredients([]);
-    } catch (error) {
-      console.error("Error sending data to backend:", error);
-    } finally {
-      setLoading(false); // Stop loading animation
-    }
+    //   console.log("Response from backend:", response.data);
+    //   setDishes(response.data.results);
+    //   // // Clear selection after successful submission
+    //   // setSelectedIngredients([]);
+    // } catch (error) {
+    //   console.error("Error sending data to backend:", error);
+    // } finally {
+    //   setLoading(false); // Stop loading animation
+    // }
   };
 
-  // Handle select change to prevent duplicates
-  const handleSelectChange = (
-    newValue: MultiValue<Option>,
-    actionMeta: ActionMeta<Option>
-  ) => {
-    // Remove duplicates using a Set to store unique values
-    const uniqueIngredients = Array.from(
-      new Set(newValue.map((item) => item.value))
-    ).map((value) => newValue.find((item) => item.value === value));
-
-    setSelectedIngredients(uniqueIngredients as Option[]); // Cast back to Option[]
+  // Handle selection
+  const handleSelectChange = (selectedOption: SingleValue<Option>) => {
+    setSelectedDish(selectedOption);
+    // onChange(selectedOption ? selectedOption.value : "");
   };
-  const filterOptions = (
-    inputValue: string
-  ): OptionsOrGroups<Option, GroupBase<Option>> => {
-    return data.filter((option) =>
+
+  // Filter options for search
+  const filterOptions = (inputValue: string): Option[] => {
+    return options.filter((option) =>
       option.label.toLowerCase().includes(inputValue.toLowerCase())
     );
   };
 
-  // Load options asynchronously
-  const loadOptions = async (
-    inputValue: string
-  ): Promise<OptionsOrGroups<Option, GroupBase<Option>>> => {
+  // Load options asynchronously (simulate API delay)
+  const loadOptions = async (inputValue: string): Promise<Option[]> => {
     return new Promise((resolve) => {
       setTimeout(() => {
         resolve(filterOptions(inputValue));
-      }, 300); // Simulate a small delay for async behavior
+      }, 300); // Simulated delay
     });
   };
-
   return (
     <>
-      <div className="flex flex-col items-center justify-start space-y-4  ">
+      <div className="flex flex-col items-center justify-start space-y-4 ">
         <div className="bg-custom-primary w-[90%] sm:w-[85%] h-36 sm:h-40 rounded-xl flex items-center justify-between relative ">
           {/* Heading Section */}
           <div className="flex h-full items-center">
             <Heading
-              title="Predict Your Own Recipe"
-              description="Got ingredients? We’ve got ideas! Let AI predict the perfect dish for you."
-              icon={ChefHat}
+              title="Adjust Your Recipe Servings"
+              description="Enter the number of people, and let us adjust ingredient quantities for the perfect meal."
+              // icon={ChefHat}
+              icon={Scale}
               iconColor="text-custom-primary"
               bgColor="bg-white"
             />
@@ -119,7 +115,7 @@ export default function RecipesPredictionPage() {
           {/* Image Section */}
           <div className="hidden sm:block absolute bottom-0 right-6">
             <Image
-              src="/1.png"
+              src="/2.png"
               alt="Predict Recipes front pic"
               height={190}
               width={190}
@@ -131,12 +127,12 @@ export default function RecipesPredictionPage() {
         <div className="flex flex-col sm:flex-row sm:items-center  w-[90%] sm:w-[85%] sm:space-x-2 space-y-2 sm:space-y-0">
           <div className="sm:w-[95%]  ">
             <AsyncSelect
-              isMulti
               cacheOptions
               loadOptions={loadOptions}
-              defaultOptions={data.slice(0, 50)} // Show the first 50 items by default
-              placeholder="Search ingredients..."
+              defaultOptions={options.slice(0, 50)} // Show first 50 items initially
+              placeholder="Search & select a dish..."
               onChange={handleSelectChange}
+              value={selectedDish}
               classNames={{
                 control: () =>
                   "bg-white border border-gray-300 rounded-md p-2 shadow-sm focus:border-blue-500 focus:ring focus:ring-blue-200",

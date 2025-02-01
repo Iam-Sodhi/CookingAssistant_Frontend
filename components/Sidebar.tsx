@@ -50,7 +50,7 @@ const Sidebar: React.FC<SidebarProps> = () => {
   return (
     <div className="space-y-4 py-4 h-full border-r flex flex-col overflow-y-auto bg-white shadow-sm ">
       <div className="p-6 pt-8">
-        <Link href="/dashboard" className="">
+        <Link href="/overview" className="">
           <div className="flex justify-start items-center leading-[117.02%] cursor-pointer font-poppins">
             <b className="text-[21px] sm:text-[25px] ">get</b>
             <span className="font-poppins text-[22px] sm:text-[25px] text-custom-primary">
