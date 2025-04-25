@@ -5,6 +5,7 @@ import { Montserrat } from "next/font/google";
 import Link from "next/link";
 import {
   ArrowRight,
+  Calendar,
   ChefHat,
   Code,
   ImageIcon,
@@ -36,12 +37,13 @@ const routes = [
     color: "text-pink-700",
     href: "/quantities",
   },
-  // {
-  //   label: "Code Generation",
-  //   icon: Code,
-  //   color: "text-green-700",
-  //   href: "/code",
-  // },
+  {
+    label: "Menu Prediction",
+    icon: Calendar, 
+    color: "text-custom-primary",
+    href: "/menu",
+  },
+  
 ];
 
 const Sidebar: React.FC<SidebarProps> = () => {
