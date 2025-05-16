@@ -135,7 +135,7 @@ export default function RecipesPredictionPage() {
               cacheOptions
               loadOptions={loadOptions}
               defaultOptions={data.slice(0, 50)} // Show the first 50 items by default
-              placeholder="Search ingredients..."
+              placeholder="Search ingredients (Minimum 5)"
               onChange={handleSelectChange}
               classNames={{
                 control: () =>
@@ -151,11 +151,16 @@ export default function RecipesPredictionPage() {
           </div>
           <Button
             onClick={sendDataToBackend}
-            className="bg-custom-primary px-6 py-6 rounded-xl text-white "
+            disabled={selectedIngredients.length < 5}
+            className={`px-6 py-6 rounded-xl text-white ${
+              selectedIngredients.length < 5
+                ? "bg-gray-400 cursor-not-allowed"
+                : "bg-custom-primary"
+            }`}
           >
             {loading ? (
               <div className="absolute flex justify-center items-center w-full h-full">
-                <div className="w-6 h-6 border-4  border-custom-primary border-t-transparent rounded-full animate-spin"></div>
+                <div className="w-6 h-6 border-4 border-custom-primary border-t-transparent rounded-full animate-spin"></div>
               </div>
             ) : (
               "Submit"

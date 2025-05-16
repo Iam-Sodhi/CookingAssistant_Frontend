@@ -26,17 +26,18 @@ const routes = [
     color: "text-sky-500",
   },
   {
-    label: "Predict Recipes",
-    icon: ChefHat,
-    href: "/recipes",
-    color: "text-violet-500",
-  },
-  {
     label: "Predict Quantities",
     icon: Scale,
     color: "text-pink-700",
     href: "/quantities",
   },
+  {
+    label: "Predict Recipes",
+    icon: ChefHat,
+    href: "/recipes",
+    color: "text-violet-500",
+  },
+
   {
     label: "Menu Prediction",
     icon: Calendar, 

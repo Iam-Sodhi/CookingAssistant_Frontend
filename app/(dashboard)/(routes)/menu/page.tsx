@@ -81,10 +81,9 @@ export default function MenuPredictionPage() {
         </div>
       </div>
 
-    
-        {/* Diet Preference Selection */}
+      {/* Diet Preference Selection */}
       <div className="flex flex-col sm:flex-row sm:items-center  w-[90%] sm:w-[85%] sm:space-x-2 space-y-2 sm:space-y-0">
-        <div className="w-full ">
+        <div className="sm:w-[94%] ">
           <Select
             options={dietOptions}
             placeholder="Select Diet Preference"
@@ -102,22 +101,23 @@ export default function MenuPredictionPage() {
             }}
           />
         </div>
+        {/* Submit Button */}
+        <Button
+          onClick={fetchWeeklyMenu}
+          className="bg-custom-primary px-6 py-6 rounded-xl text-white"
+        >
+        {loading ? (
+              <div className="absolute flex justify-center items-center w-full h-full">
+                <div className="w-6 h-6 border-4  border-custom-primary border-t-transparent rounded-full animate-spin"></div>
+              </div>
+            ) : (
+            "Generate Weekly Menu"
+          )}
+        </Button>
       </div>
 
-      {/* Submit Button */}
-      <Button
-        onClick={fetchWeeklyMenu}
-        className="bg-custom-primary px-6 py-4 rounded-xl text-white"
-      >
-        {loading ? (
-          <div className="w-6 h-6 border-4 border-custom-primary border-t-transparent rounded-full animate-spin"></div>
-        ) : (
-          "Generate Weekly Menu"
-        )}
-      </Button>
-
       {/* Display the Weekly Menu */}
-      <div className="w-[90%] sm:w-[85%] overflow-hidden mt-6">
+      <div className="w-[90%] sm:w-[85%] overflow-hidden  ">
         {loading && (
           <div className="flex justify-center items-center">
             <Image
@@ -131,11 +131,11 @@ export default function MenuPredictionPage() {
         )}
 
         {!loading && weeklyMenu.length > 0 && (
-          <div className="space-y-8 p-4">
+          <div className="space-y-2 p-4">
             {weeklyMenu.map((menu, index) => (
               <div
                 key={index}
-                className="bg-white shadow-md rounded-lg p-6 flex flex-col space-y-4"
+                className="bg-white shadow-md rounded-lg p-6 flex flex-col space-y-2"
               >
                 <h3 className="text-xl font-semibold">{menu.Day}</h3>
                 <div className="flex flex-col sm:flex-row sm:space-x-4 space-y-2 sm:space-y-0">
